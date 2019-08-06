@@ -1,4 +1,4 @@
-(module BGA28C80P4X7_400X625X242 (layer F.Cu) (tedit 0)
+(module BGA28C80P4X7_400X625X242 (layer F.Cu) (tedit 5D498D72)
   (descr "BGA Package 28-Lead (6.25mm × 4mm × 2.22mm)")
   (tags "Integrated Circuit")
   (attr smd)

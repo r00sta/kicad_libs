@@ -1,4 +1,4 @@
-(module SOP65P640X120-16N (layer F.Cu) (tedit 0)
+(module SOP65P640X120-16N (layer F.Cu) (tedit 5D498C5D)
   (descr PWP0016A-5)
   (tags "Integrated Circuit")
   (attr smd)

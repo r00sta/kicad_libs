@@ -1,4 +1,4 @@
-(module SOP50P490X110-11N (layer F.Cu) (tedit 0)
+(module SOP50P490X110-11N (layer F.Cu) (tedit 5D498D4C)
   (descr "MSE(MSOP)_3")
   (tags "Integrated Circuit")
   (attr smd)

@@ -1,4 +1,4 @@
-(module SON50P300X300X80-11N-D (layer F.Cu) (tedit 0)
+(module SON50P300X300X80-11N-D (layer F.Cu) (tedit 5D498D25)
   (descr "DD(DFN)_1")
   (tags "Integrated Circuit")
   (attr smd)
