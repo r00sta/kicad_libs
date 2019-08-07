@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 5x2_2.54_RA_Pin_Header J 0 30 Y Y 1 F N
 F0 "J" 750 300 50 H V L CNN
 F1 "5x2_2.54_RA_Pin_Header" 750 200 50 H V L CNN
-F2 "SSW10502TDRA" 750 100 50 H I L CNN
+F2 "Connectors:SSW10502TDRA" 750 100 50 H I L CNN
 F3 "" 750 0 50 H I L CNN
 F4 "Samtec SSW Series 2.54mm Pitch 10 Way 2 Row Right Angle PCB Socket, Through Hole, Solder Termination" 750 -100 50 H I L CNN "Description"
 F5 "2.41" 750 -200 50 H I L CNN "Height"
@@ -39,7 +39,7 @@ ENDDEF
 DEF Barrel_Jack_CUI J 0 30 Y Y 1 F N
 F0 "J" 650 300 50 H V L CNN
 F1 "Barrel_Jack_CUI" 650 200 50 H V L CNN
-F2 "PJ018H" 650 100 50 H I L CNN
+F2 "Connectors:PJ018H" 650 100 50 H I L CNN
 F3 "" 650 0 50 H I L CNN
 F4 "DC Power Connectors Power Jacks" 650 -100 50 H I L CNN "Description"
 F5 "5" 650 -200 50 H I L CNN "Height"
@@ -55,6 +55,65 @@ P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
 X 1 1 0 0 200 R 50 50 0 0 B
 X 2 2 800 0 200 L 50 50 0 0 B
 X 3 3 0 -100 200 R 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# WtB_T821_3x2_RA
+#
+DEF WtB_T821_3x2_RA J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "WtB_T821_3x2_RA" 650 200 50 H V L CNN
+F2 "Connectors:T821106A1R100CEU" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "HEADER, RA, 2.54MM, 6WAY Amphenol T821 Series, 2.54mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 3A" 650 -100 50 H I L CNN "Description"
+F5 "9.15" 650 -200 50 H I L CNN "Height"
+F6 "2215288" 650 -300 50 H I L CNN "Farnell Part Number"
+F7 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=2215288&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
+F8 "Amphenol" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "T821106A1R100CEU" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+$FPLIST
+ T821106A1R100CEU
+$ENDFPLIST
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 800 0 200 L 50 50 0 0 B
+X 3 3 0 -100 200 R 50 50 0 0 B
+X 4 4 800 -100 200 L 50 50 0 0 B
+X 5 5 0 -200 200 R 50 50 0 0 B
+X 6 6 800 -200 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# WtB_T821_6x2_RA
+#
+DEF WtB_T821_6x2_RA J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "WtB_T821_6x2_RA" 750 200 50 H V L CNN
+F2 "Connectors:T821112A1R100CEU" 750 100 50 H I L CNN
+F3 "" 750 0 50 H I L CNN
+F4 "Amphenol T821 Series, 2.54mm Pitch 12 Way 2 Row Shrouded Right Angle PCB Header, Through Hole, Solder Termination" 750 -100 50 H I L CNN "Description"
+F5 "2215291" 750 -300 50 H I L CNN "Farnell Part Number"
+F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=2215291&action=view" 750 -400 50 H I L CNN "Farnell Price/Stock"
+F7 "Amphenol" 750 -500 50 H I L CNN "Manufacturer_Name"
+F8 "T821112A1R100CEU" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+$FPLIST
+ T821112A1R100CEU
+$ENDFPLIST
+DRAW
+P 5 0 1 6 200 100 700 100 700 -600 200 -600 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 B
+X 10 10 900 -400 200 L 50 50 0 0 B
+X 11 11 0 -500 200 R 50 50 0 0 B
+X 12 12 900 -500 200 L 50 50 0 0 B
+X 2 2 900 0 200 L 50 50 0 0 B
+X 3 3 0 -100 200 R 50 50 0 0 B
+X 4 4 900 -100 200 L 50 50 0 0 B
+X 5 5 0 -200 200 R 50 50 0 0 B
+X 6 6 900 -200 200 L 50 50 0 0 B
+X 7 7 0 -300 200 R 50 50 0 0 B
+X 8 8 900 -300 200 L 50 50 0 0 B
+X 9 9 0 -400 200 R 50 50 0 0 B
 ENDDRAW
 ENDDEF
 #

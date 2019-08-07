@@ -10,4 +10,14 @@ D DC Power Connectors Power Jacks
 F https://www.cui.com/product/resource/pj-018h-smt-tr.pdf
 $ENDCMP
 #
+$CMP WtB_T821_3x2_RA
+D HEADER, RA, 2.54MM, 6WAY Amphenol T821 Series, 2.54mm Pitch 6 Way 2 Row Right Angle PCB Header, Solder Termination, 3A
+F https://componentsearchengine.com/Datasheets/2/T821106A1R100CEU.pdf
+$ENDCMP
+#
+$CMP WtB_T821_6x2_RA
+D Amphenol T821 Series, 2.54mm Pitch 12 Way 2 Row Shrouded Right Angle PCB Header, Through Hole, Solder Termination
+F https://componentsearchengine.com/Datasheets/2/T821112A1R100CEU.pdf
+$ENDCMP
+#
 #End Doc Library

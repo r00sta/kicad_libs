@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT3042EDD#PBF
+D LINEAR TECHNOLOGY - LT3042EDD#PBF - LDO, ADJ, 0.2A, 0V-15V, DFN-10
+F https://componentsearchengine.com/Datasheets/1/LT3042EDD#PBF.pdf
+$ENDCMP
+#
+$CMP LT3042EMSE#PBF
+D LINEAR TECHNOLOGY - LT3042EMSE#PBF - LDO, ADJ, 0.2A, 0V-15V, MSOP-10
+F https://componentsearchengine.com/Datasheets/1/LT3042EMSE#PBF.pdf
+$ENDCMP
+#
 $CMP LTM8063EY#PBF
 D Switching Voltage Regulators 40VIN, 2A Silent Switcher  Module Regulator
 F https://componentsearchengine.com/Datasheets/1/LTM8063EY#PBF.pdf

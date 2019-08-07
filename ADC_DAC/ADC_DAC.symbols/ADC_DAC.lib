@@ -6,8 +6,8 @@ EESchema-LIBRARY Version 2.4
 DEF ADS1219IPWR IC 0 30 Y Y 1 F N
 F0 "IC" 1150 300 50 H V L CNN
 F1 "ADS1219IPWR" 1150 200 50 H V L CNN
-F2 "SOP65P640X120-16N" 1150 100 50 H I L CNN
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fds%2Fsymlink%2Fads1219.pdf" 1150 0 50 H I L CNN
+F2 "ADC_DAC:SOP65P640X120-16N" 1150 100 50 H I L CNN
+F3 "" 1150 0 50 H I L CNN
 F4 "24-Bit, 1kSPS, 4-Ch General-Purpose Delta-Sigma ADC With I2C Interface and External Vref Inputs" 1150 -100 50 H I L CNN "Description"
 F5 "1.2" 1150 -200 50 H I L CNN "Height"
 F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
