@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 534-5002
+D KEYSTONE - 5002 - TEST POINT CONNECTOR
+F http://www.keyelco.com/product-pdf.cfm?p=1311
+$ENDCMP
+#
 $CMP 5x2_2.54_RA_Pin_Header
 D Samtec SSW Series 2.54mm Pitch 10 Way 2 Row Right Angle PCB Socket, Through Hole, Solder Termination
 F http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf
