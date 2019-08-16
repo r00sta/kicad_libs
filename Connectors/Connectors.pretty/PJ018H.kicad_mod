@@ -1,4 +1,4 @@
-(module PJ018H (layer F.Cu) (tedit 5D498B60)
+(module PJ018H (layer F.Cu) (tedit 5D55DBB1)
   (descr PJ-018H)
   (tags Connector)
   (fp_text reference J** (at -4.982 0.657) (layer F.SilkS)
@@ -31,7 +31,7 @@
   (pad 3 thru_hole circle (at -2.54 2.54) (size 2.55 2.55) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -5.08 0) (size 2.55 2.55) (drill 1.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.55 2.55) (drill 1.7) (layers *.Cu *.Mask))
-  (model PJ-018H.stp
+  (model :kicad_libs:PJ-018H.stp
     (offset (xyz -11.25 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
