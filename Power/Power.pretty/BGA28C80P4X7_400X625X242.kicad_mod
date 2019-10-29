@@ -1,4 +1,4 @@
-(module BGA28C80P4X7_400X625X242 (layer F.Cu) (tedit 5D498D72)
+(module BGA28C80P4X7_400X625X242 (layer F.Cu) (tedit 5D55DBE4)
   (descr "BGA Package 28-Lead (6.25mm × 4mm × 2.22mm)")
   (tags "Integrated Circuit")
   (attr smd)
@@ -54,7 +54,7 @@
   (pad A3 smd circle (at 0.4 -2.4 90) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad A2 smd circle (at -0.4 -2.4 90) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -1.2 -2.4 90) (size 0.45 0.45) (layers F.Cu F.Paste F.Mask))
-  (model LTM8063EY#PBF.stp
+  (model :kicad_libs:LTM8063EY#PBF.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

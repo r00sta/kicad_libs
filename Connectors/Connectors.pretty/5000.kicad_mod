@@ -1,4 +1,4 @@
-(module 5000 (layer F.Cu) (tedit 5D4C576C)
+(module 5000 (layer F.Cu) (tedit 5D55DB97)
   (descr "5000 - Red")
   (tags "Undefined or Miscellaneous")
   (fp_text reference U** (at 0.151 -0.202) (layer F.SilkS)
@@ -13,7 +13,7 @@
   (fp_circle (center 0 0) (end 0 1.27) (layer F.SilkS) (width 0.2))
   (fp_circle (center 0 0) (end 0 1.27) (layer F.Fab) (width 0.2))
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 1.02) (layers *.Cu *.Mask))
-  (model 5000.stp
+  (model :kicad_libs:5000.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -1,4 +1,4 @@
-(module TO-252-3 (layer F.Cu) (tedit 5D4C298E)
+(module TO-252-3 (layer F.Cu) (tedit 5D55DBFD)
   (descr TO-252-3)
   (tags "Integrated Circuit")
   (attr smd)
@@ -20,7 +20,7 @@
   (pad 3 smd rect (at 0 0 90) (size 6.3 6.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.286 6.5) (size 1.5 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.286 6.5) (size 1.5 2.8) (layers F.Cu F.Paste F.Mask))
-  (model TO-252-3.stp
+  (model :kicad_libs:TO-252-3.stp
     (offset (xyz 0 -1.5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

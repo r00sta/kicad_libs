@@ -1,4 +1,4 @@
-(module 5002 (layer F.Cu) (tedit 5D4C58A0)
+(module 5002 (layer F.Cu) (tedit 5D55DBA9)
   (descr "5002 - White")
   (tags "Undefined or Miscellaneous")
   (fp_text reference U** (at 0.151 -0.202) (layer F.SilkS)
@@ -13,7 +13,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 1.02) (layers *.Cu *.Mask))
-  (model 5002.stp
+  (model :kicad_libs:5002.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

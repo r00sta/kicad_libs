@@ -1,4 +1,4 @@
-(module SOP50P490X110-11N (layer F.Cu) (tedit 5D498D4C)
+(module SOP50P490X110-11N (layer F.Cu) (tedit 5D55DBF6)
   (descr "MSE(MSOP)_3")
   (tags "Integrated Circuit")
   (attr smd)
@@ -32,7 +32,7 @@
   (pad 3 smd rect (at -2.212 0 90) (size 0.3 1.425) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2.212 -0.5 90) (size 0.3 1.425) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2.212 -1 90) (size 0.3 1.425) (layers F.Cu F.Paste F.Mask))
-  (model LT3042EMSE#PBF.stp
+  (model :kicad_libs:LT3042EMSE#PBF.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
