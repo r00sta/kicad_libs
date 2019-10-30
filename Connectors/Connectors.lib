@@ -1,6 +1,37 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 3-338168-2
+#
+DEF 3-338168-2 J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "3-338168-2" 850 200 50 H V L CNN
+F2 "Connectors:33381682" 850 100 50 H I L CNN
+F3 "" 850 0 50 H I L CNN
+F4 "Connector,Rectangular,European standard,HD20,D-Sub" 850 -100 50 H I L CNN "Description"
+F5 "13" 850 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "3-338168-2" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "571-3-338168-2" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=571-3-338168-2" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "4543753P" 850 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/4543753P" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+P 5 0 1 6 200 100 800 100 800 -600 200 -600 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 1000 0 200 L 50 50 0 0 U
+X 3 3 0 -100 200 R 50 50 0 0 U
+X 4 4 1000 -100 200 L 50 50 0 0 U
+X 5 5 0 -200 200 R 50 50 0 0 U
+X 6 6 1000 -200 200 L 50 50 0 0 U
+X 7 7 0 -300 200 R 50 50 0 0 U
+X 8 8 1000 -300 200 L 50 50 0 0 U
+X 9 9 0 -400 200 R 50 50 0 0 U
+X MH1 MH1 1000 -400 200 L 50 50 0 0 U
+X MH2 MH2 0 -500 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
 # 534-5000
 #
 DEF 534-5000 J 0 30 Y Y 1 F N
@@ -152,7 +183,7 @@ ENDDEF
 DEF WtB_T821_17x2 J 0 30 Y Y 1 F N
 F0 "J" 750 300 50 H V L CNN
 F1 "WtB_T821_17x2" 750 200 50 H V L CNN
-F2 "SHDR34W64P254X254_2X17_5080X895X915P" 750 100 50 H I L CNN
+F2 "Connectors:SHDR34W64P254X254_2X17_5080X895X915P" 750 100 50 H I L CNN
 F3 "" 750 0 50 H I L CNN
 F4 "HEADER, VERTICAL, 2.54MM, 34WAY Amphenol T821 Series, 2.54mm Pitch 34 Way 2 Row Straight PCB Header, Solder Termination, 3A" 750 -100 50 H I L CNN "Description"
 F5 "9.15" 750 -200 50 H I L CNN "Height"
