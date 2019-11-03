@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KMR221G_LFS
+D C & K COMPONENTS - KMR221G LFS - SWITCH, SPST, 0.05A, 32VDC, SMD
+F http://www.farnell.com/datasheets/1685525.pdf
+$ENDCMP
+#
+$CMP SP3TSlideTEConn
+D Slide switch,PCB,SP3T,3 pos,vertical mnt
+F http://docs-emea.rs-online.com/webdocs/0f8d/0900766b80f8d468.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -30,11 +30,6 @@ D DC Power Connectors Power Jacks
 F https://www.cui.com/product/resource/pj-018h-smt-tr.pdf
 $ENDCMP
 #
-$CMP SP3TSlideTEConn
-D Slide switch,PCB,SP3T,3 pos,vertical mnt
-F http://docs-emea.rs-online.com/webdocs/0f8d/0900766b80f8d468.pdf
-$ENDCMP
-#
 $CMP WtB_T821_17x2
 D HEADER, VERTICAL, 2.54MM, 34WAY Amphenol T821 Series, 2.54mm Pitch 34 Way 2 Row Straight PCB Header, Solder Termination, 3A
 F http://uk.rs-online.com/web/p/products/8323562
