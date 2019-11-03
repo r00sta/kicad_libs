@@ -1,6 +1,28 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 3002
+#
+DEF 3002 J 0 30 Y Y 1 F N
+F0 "J" 950 300 50 H V L CNN
+F1 "3002" 950 200 50 H V L CNN
+F2 "Power:SMT_CELL_HOLDER" 950 100 50 H I L CNN
+F3 "" 950 0 50 H I L CNN
+F4 "SMT Holder for 20mm Cell-Tin Nickel Plate P/N 3002" 950 -100 50 H I L CNN "Description"
+F5 "Keystone Electronics" 950 -300 50 H I L CNN "Manufacturer_Name"
+F6 "3002" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F7 "534-3002" 950 -500 50 H I L CNN "Mouser Part Number"
+F8 "https://www.mouser.com/Search/Refine.aspx?Keyword=534-3002" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F9 "70181637" 950 -900 50 H I L CNN "Allied_Number"
+F10 "http://www.alliedelec.com/keystone-electronics-3002/70181637/" 950 -1000 50 H I L CNN "Allied Price/Stock"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+X POS_1 1 0 0 200 R 50 50 0 0 W
+X NEG 2 1100 0 200 L 50 50 0 0 P
+X POS_2 3 0 -100 200 R 50 50 0 0 W
+ENDDRAW
+ENDDEF
+#
 # Fuse_SMD_1A
 #
 DEF Fuse_SMD_1A F 0 30 Y Y 1 F N

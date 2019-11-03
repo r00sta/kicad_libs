@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 3002
+D SMT Holder for 20mm Cell-Tin Nickel Plate P/N 3002
+F http://www.keyelco.com/product.cfm/product_id/779
+$ENDCMP
+#
 $CMP Fuse_SMD_1A
 D Fuse SMD NANO2 1A FF w/holder Littelfuse 1A FF Surface Mount Fuse, 125 V ac/dc
 F https://componentsearchengine.com/Datasheets/1/0154001.DR.pdf

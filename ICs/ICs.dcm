@@ -5,4 +5,9 @@ D Microchip Technology
 F https://componentsearchengine.com/Datasheets/1/ATA6561-GBQW-N.pdf
 $ENDCMP
 #
+$CMP ATTINY1607-MNR
+D 20MHz, 16KB, QFN24, Ind 105C, Green, T&R
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny807_1607-Data-Sheet-40002030A.pdf
+$ENDCMP
+#
 #End Doc Library
