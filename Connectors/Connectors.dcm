@@ -25,6 +25,11 @@ D Samtec SSW Series 2.54mm Pitch 10 Way 2 Row Right Angle PCB Socket, Through Ho
 F http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf
 $ENDCMP
 #
+$CMP 8191-2
+D Keystone, Brass Screw Terminal, 22  14 AWG, 15A
+F http://uk.rs-online.com/web/p/products/4813973
+$ENDCMP
+#
 $CMP Barrel_Jack_CUI
 D DC Power Connectors Power Jacks
 F https://www.cui.com/product/resource/pj-018h-smt-tr.pdf

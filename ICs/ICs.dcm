@@ -10,4 +10,9 @@ D 20MHz, 16KB, QFN24, Ind 105C, Green, T&R
 F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny807_1607-Data-Sheet-40002030A.pdf
 $ENDCMP
 #
+$CMP DRV425RTJT
+D TEXAS INSTRUMENTS - DRV425RTJT - MAGNETIC FIELD SENSOR, SINGLE AXIS, WQFN
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=DRV425&&fileType=pdf
+$ENDCMP
+#
 #End Doc Library
