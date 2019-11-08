@@ -1,4 +1,4 @@
-(module QFN50P400X400X80-21N-D (layer F.Cu) (tedit 5DC14175)
+(module QFN50P400X400X80-21N-D (layer F.Cu) (tedit 5DC2FE74)
   (descr "RTJ (S-PWQFN-N20)_3")
   (tags "Integrated Circuit")
   (attr smd)
