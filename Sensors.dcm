@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TMP235A2DCKT
-D &plusmn;2.5&deg;C Analog output temperature sensor, with 10mV /&deg;C gain
-F http://www.ti.com/lit/ds/symlink/tmp235.pdf
-$ENDCMP
-#
-#End Doc Library

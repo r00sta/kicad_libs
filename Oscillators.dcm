@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ABS07-120-32.768KHZ-T
-D ABRACON - ABS07-120-32.768KHZ-T - CRYSTAL, 32.768KHZ, 6PF, 3.2 X 1.5MM
-F http://www.abracon.com/Resonators/ABS07-120-32.768kHz-T.pdf
-$ENDCMP
-#
-#End Doc Library

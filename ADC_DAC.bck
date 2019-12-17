@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ADS1219IPWR
-D 24-Bit, 1kSPS, 4-Ch General-Purpose Delta-Sigma ADC With I2C Interface and External Vref Inputs
-F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fds%2Fsymlink%2Fads1219.pdf
-$ENDCMP
-#
-#End Doc Library
