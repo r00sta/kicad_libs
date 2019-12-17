@@ -1,4 +1,4 @@
-(module 81912 (layer F.Cu) (tedit 5DC1A787)
+(module 81912 (layer F.Cu) (tedit 5DE8EB58)
   (descr 8191-2-1)
   (tags Connector)
   (fp_text reference J** (at 2.502 3.505) (layer F.SilkS)
@@ -26,9 +26,9 @@
   (pad 3 thru_hole circle (at 0 7.01) (size 2.781 2.781) (drill 1.8542) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.004 0) (size 2.781 2.781) (drill 1.8542) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.781 2.781) (drill 1.8542) (layers *.Cu *.Mask))
-  (model :kicad_libs:2834097-1.stp
-    (offset (xyz 2.5 -3 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
+  (model :kicad_libs:7808.stp
+    (offset (xyz 2.5 -7 2.5))
+    (scale (xyz 0.5 0.6 0.6))
+    (rotate (xyz -90 0 0))
   )
 )

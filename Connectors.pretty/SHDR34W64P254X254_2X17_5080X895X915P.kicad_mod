@@ -1,4 +1,4 @@
-(module SHDR34W64P254X254_2X17_5080X895X915P (layer F.Cu) (tedit 5DB804E2)
+(module SHDR34W64P254X254_2X17_5080X895X915P (layer F.Cu) (tedit 5DE8E190)
   (descr "Box Header w/o Latch, 2.54 Dip, Straight")
   (tags Connector)
   (fp_text reference J** (at 0 0) (layer F.SilkS)
@@ -56,4 +56,9 @@
   (pad 3 thru_hole circle (at 2.54 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -2.54) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x17_P2.54mm_Vertical.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
