@@ -156,7 +156,7 @@ ENDDEF
 DEF 8191-2 J 0 30 Y Y 1 F N
 F0 "J" 650 300 50 H V L CNN
 F1 "8191-2" 650 200 50 H V L CNN
-F2 "Connectors:81912" 650 100 50 H I L CNN
+F2 "cdo2:81912" 650 100 50 H I L CNN
 F3 "" 650 0 50 H I L CNN
 F4 "Keystone, Brass Screw Terminal, 22  14 AWG, 15A" 650 -100 50 H I L CNN "Description"
 F5 "11.176" 650 -200 50 H I L CNN "Height"
@@ -542,7 +542,7 @@ ENDDEF
 DEF Fuse_SMD_1A F 0 30 Y Y 1 F N
 F0 "F" 650 300 50 H V L CNN
 F1 "Fuse_SMD_1A" 650 200 50 H V L CNN
-F2 "Power:0154001DR" 650 100 50 H I L CNN
+F2 "cdo2:0154001DR" 650 100 50 H I L CNN
 F3 "" 650 0 50 H I L CNN
 F4 "Fuse SMD NANO2 1A FF w/holder Littelfuse 1A FF Surface Mount Fuse, 125 V ac/dc" 650 -100 50 H I L CNN "Description"
 F5 "576-0154001.DR" 650 -300 50 H I L CNN "Mouser Part Number"
