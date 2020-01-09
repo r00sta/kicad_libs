@@ -125,6 +125,11 @@ D Slide switch,PCB,SPDT,2 pos,vertical mnt
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1-1437575-4%7FA%7Fpdf%7FEnglish%7FENG_CD_1-1437575-4_A.pdf%7F1-1437575-4
 $ENDCMP
 #
+$CMP T821124A1S100CEU
+D HEADER, VERTICAL, 2.54MM, 24WAY Amphenol T821 Series, 2.54mm Pitch 24 Way 2 Row Straight PCB Header, Solder Termination, 3A
+F http://docs-emea.rs-online.com/webdocs/1359/0900766b81359cba.pdf
+$ENDCMP
+#
 $CMP TDD01H0SB1R
 D DIP Switches / SIP Switches Jumper Switch 2 positions
 F https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf
