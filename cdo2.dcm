@@ -40,6 +40,11 @@ D ABRACON - ABS07-120-32.768KHZ-T - CRYSTAL, 32.768KHZ, 6PF, 3.2 X 1.5MM
 F http://www.abracon.com/Resonators/ABS07-120-32.768kHz-T.pdf
 $ENDCMP
 #
+$CMP AD7173-8BCPZ
+D Analog Devices AD7173-8BCPZ, 24-bit Serial ADC Differential, Single Ended Input, 40-Pin LFCSP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7173-8.pdf
+$ENDCMP
+#
 $CMP ADS1219IPWR
 D 24-Bit, 1kSPS, 4-Ch General-Purpose Delta-Sigma ADC With I2C Interface and External Vref Inputs
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fds%2Fsymlink%2Fads1219.pdf
