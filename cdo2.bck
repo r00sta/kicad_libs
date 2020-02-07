@@ -55,6 +55,26 @@ D Analog Front End - AFE Battery Formation and Test ASSP
 F https://componentsearchengine.com/Datasheets/1/AD8452ASTZ.pdf
 $ENDCMP
 #
+$CMP ADCMP370AKSZ-REEL7
+D Analog Devices ADCMP370AKSZ-REEL7 Comparator, Push-Pull O/P, 30 ns, 45 ns 2.25  5.5 V 5-Pin SC-70
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP370_371.pdf
+$ENDCMP
+#
+$CMP ADM8829ARTZ-REEL7
+D ANALOG DEVICES - ADM8829ARTZ-REEL7 - CHARGE PUMP VOLT INVERTER, SOT-23-6
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM8828_8829.pdf
+$ENDCMP
+#
+$CMP ADP1612ARMZ-R7
+D Analog Devices ADP1612ARMZ-R7, Step Up DC-DC Converter, 1.9A, Adjustable, 5.5  20 V, 8-Pin MSOP
+F http://uk.rs-online.com/web/p/products/7427727P
+$ENDCMP
+#
+$CMP ADP7102ARDZ-5.0-R7
+D Linear Voltage Regulators 20V 300mA CMOS LDO Low Noise
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7102.pdf
+$ENDCMP
+#
 $CMP ADR4550BRZ
 D Analog Devices ADR4550BRZ, Series Voltage Reference 5V, +/-0.02% 15 V max., 8-Pin SOIC
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADR4520_4525_4530_4533_4540_4550.pdf
@@ -73,6 +93,11 @@ $ENDCMP
 $CMP ADTL082ARZ
 D ADTL082ARZ, Dual Operational Amplifier 5MHz, 8-Pin SOIC
 F http://www.analog.com/static/imported-files/data_sheets/ADTL082_084.pdf
+$ENDCMP
+#
+$CMP ADUM7223BCCZ
+D Analog Devices ADUM7223BCCZ, Dual MOSFET Power Driver 4A Half Bridge, 3.3  5 V, Inverting, 13-Pin LGA
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM7223.pdf
 $ENDCMP
 #
 $CMP APT2012SGC
