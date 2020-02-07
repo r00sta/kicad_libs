@@ -40,6 +40,26 @@ D ABRACON - ABS07-120-32.768KHZ-T - CRYSTAL, 32.768KHZ, 6PF, 3.2 X 1.5MM
 F http://www.abracon.com/Resonators/ABS07-120-32.768kHz-T.pdf
 $ENDCMP
 #
+$CMP AD5689RBCPZ-RL7
+D Digital to Analog Converters - DAC Dual 16-Bit 2-CH w/ SPI INTERFACE
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5689R_5687R.pdf
+$ENDCMP
+#
+$CMP AD7173-8BCPZ
+D Analog Devices AD7173-8BCPZ, 24-bit Serial ADC Differential, Single Ended Input, 40-Pin LFCSP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7173-8.pdf
+$ENDCMP
+#
+$CMP AD8452ASTZ
+D Analog Front End - AFE Battery Formation and Test ASSP
+F https://componentsearchengine.com/Datasheets/1/AD8452ASTZ.pdf
+$ENDCMP
+#
+$CMP ADR4550BRZ
+D Analog Devices ADR4550BRZ, Series Voltage Reference 5V, +/-0.02% 15 V max., 8-Pin SOIC
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADR4520_4525_4530_4533_4540_4550.pdf
+$ENDCMP
+#
 $CMP ADS1219IPWR
 D 24-Bit, 1kSPS, 4-Ch General-Purpose Delta-Sigma ADC With I2C Interface and External Vref Inputs
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fds%2Fsymlink%2Fads1219.pdf
@@ -48,6 +68,11 @@ $ENDCMP
 $CMP ADS1258IRTCT
 D 24-Bit, 125kSPS, 16-Ch Delta-Sigma ADC With Fast Channel Scan and Automatic Sequencer
 F http://www.ti.com/lit/gpn/ads1258
+$ENDCMP
+#
+$CMP ADTL082ARZ
+D ADTL082ARZ, Dual Operational Amplifier 5MHz, 8-Pin SOIC
+F http://www.analog.com/static/imported-files/data_sheets/ADTL082_084.pdf
 $ENDCMP
 #
 $CMP APT2012SGC
