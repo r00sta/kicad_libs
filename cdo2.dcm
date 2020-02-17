@@ -45,6 +45,11 @@ D Digital to Analog Converters - DAC Dual 16-Bit 2-CH w/ SPI INTERFACE
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5689R_5687R.pdf
 $ENDCMP
 #
+$CMP AD7172-4BCPZ
+D ANALOG DEVICES - AD7172-4BCPZ - Analogue to Digital Converter, Sigma-Delta, 24 bit, 31.25 kSPS, Differential, Single Ended, SPI
+F https://componentsearchengine.com/Datasheets/2/AD7172-4BCPZ.pdf
+$ENDCMP
+#
 $CMP AD7173-8BCPZ
 D Analog Devices AD7173-8BCPZ, 24-bit Serial ADC Differential, Single Ended Input, 40-Pin LFCSP
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7173-8.pdf
@@ -167,6 +172,16 @@ $ENDCMP
 $CMP LTM8063EY#PBF
 D Switching Voltage Regulators 40VIN, 2A Silent Switcher  Module Regulator
 F https://componentsearchengine.com/Datasheets/1/LTM8063EY#PBF.pdf
+$ENDCMP
+#
+$CMP NC7SZ04P5X
+D Inverter 1 Channel CMOS 5 Pin SC-70
+F http://docs-emea.rs-online.com/webdocs/0f9b/0900766b80f9b618.pdf
+$ENDCMP
+#
+$CMP NC7SZ08P5X
+D Fairchild Semiconductor NC7SZ08P5X 2-Input AND Logic Gate, 5-Pin SC-70
+F https://www.onsemi.com/pub/Collateral/NC7SZ08-D.PDF
 $ENDCMP
 #
 $CMP SP3TSlideTEConn
