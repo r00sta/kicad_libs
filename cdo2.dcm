@@ -174,6 +174,11 @@ D Switching Voltage Regulators 40VIN, 2A Silent Switcher  Module Regulator
 F https://componentsearchengine.com/Datasheets/1/LTM8063EY#PBF.pdf
 $ENDCMP
 #
+$CMP MCP23017T-E_SS
+D 16-Bit I/O Expander with Serial Interface
+F https://componentsearchengine.com/Datasheets/1/MCP23017T-E_SS.pdf
+$ENDCMP
+#
 $CMP NC7SZ04P5X
 D Inverter 1 Channel CMOS 5 Pin SC-70
 F http://docs-emea.rs-online.com/webdocs/0f9b/0900766b80f9b618.pdf
