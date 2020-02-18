@@ -134,6 +134,21 @@ D Bipolar Transistors - BJT
 F https://componentsearchengine.com/Datasheets/1/BC850BLT1G.pdf
 $ENDCMP
 #
+$CMP BSC030P03NS3G
+D Infineon BSC030P03NS3G P-channel MOSFET Transistor, -100 A, -30 V, 8-Pin TDSON
+F https://www.infineon.com/dgdl/Infineon-BSC030P03NS3G-DS-v02_01-en.pdf?fileId=db3a30431d8a6b3c011d90d084910435
+$ENDCMP
+#
+$CMP BSZ097N04LS_G
+D MOSFET N-Ch 40V 40A TSDSON-8 OptiMOS 3
+F http://www.infineon.com/dgdl/BSZ097N04LSG_rev1.1.pdf?folderId=db3a3043163797a6011643468e7505a4&fileId=db3a3043163797a6011643be1d53068c
+$ENDCMP
+#
+$CMP BZX585-C3V3
+D Nexperia Zener Diode, 3.3V 5% 300 mW SMT 2-Pin SOD-523
+F https://assets.nexperia.com/documents/data-sheet/BZX585_SERIES.pdf
+$ENDCMP
+#
 $CMP Barrel_Jack_CUI
 D DC Power Connectors Power Jacks
 F https://www.cui.com/product/resource/pj-018h-smt-tr.pdf
@@ -174,9 +189,19 @@ D Switching Voltage Regulators 40VIN, 2A Silent Switcher  Module Regulator
 F https://componentsearchengine.com/Datasheets/1/LTM8063EY#PBF.pdf
 $ENDCMP
 #
+$CMP MCP23017T-E_SS
+D 16-Bit I/O Expander with Serial Interface
+F https://componentsearchengine.com/Datasheets/1/MCP23017T-E_SS.pdf
+$ENDCMP
+#
 $CMP NC7SZ04P5X
 D Inverter 1 Channel CMOS 5 Pin SC-70
 F http://docs-emea.rs-online.com/webdocs/0f9b/0900766b80f9b618.pdf
+$ENDCMP
+#
+$CMP NC7SZ08P5X
+D Fairchild Semiconductor NC7SZ08P5X 2-Input AND Logic Gate, 5-Pin SC-70
+F https://www.onsemi.com/pub/Collateral/NC7SZ08-D.PDF
 $ENDCMP
 #
 $CMP SP3TSlideTEConn
@@ -227,6 +252,11 @@ $ENDCMP
 $CMP WtB_T821_6x2_RA
 D Amphenol T821 Series, 2.54mm Pitch 12 Way 2 Row Shrouded Right Angle PCB Header, Through Hole, Solder Termination
 F https://componentsearchengine.com/Datasheets/2/T821112A1R100CEU.pdf
+$ENDCMP
+#
+$CMP XAL1510-682MED
+D Fixed Inductors
+F https://componentsearchengine.com/Datasheets/1/XAL1510-682MED.pdf
 $ENDCMP
 #
 #End Doc Library
