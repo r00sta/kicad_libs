@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 24.243.2
+D MULTICOMP - 24.243.2 - RECEPTACLE, 20A, 4MM, PCB, SOLDER, BLACK
+F https://componentsearchengine.com/Datasheets/2/24.243.2.pdf
+$ENDCMP
+#
 $CMP 3-338168-2
 D Connector,Rectangular,European standard,HD20,D-Sub
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F338168%7FK%7Fpdf%7FEnglish%7FENG_CD_338168_K.pdf%7F3-338168-2
@@ -179,6 +184,11 @@ D LDO Regulator 5V 1.5A DPAK STMicroelectronics LD29150DT50R, LDO Voltage Regula
 F https://componentsearchengine.com/Datasheets/1/LD29150DT50R.pdf
 $ENDCMP
 #
+$CMP LPD5030-103MRC
+D COILCRAFT - LPD5030-103MRC - COUPLED INDUCTOR, 10UH, 1.05A, 20%
+F http://www.farnell.com/datasheets/1862246.pdf
+$ENDCMP
+#
 $CMP LT3042EMSE#PBF
 D LINEAR TECHNOLOGY - LT3042EMSE#PBF - LDO, ADJ, 0.2A, 0V-15V, MSOP-10
 F https://componentsearchengine.com/Datasheets/1/LT3042EMSE#PBF.pdf
@@ -202,6 +212,16 @@ $ENDCMP
 $CMP NC7SZ08P5X
 D Fairchild Semiconductor NC7SZ08P5X 2-Input AND Logic Gate, 5-Pin SC-70
 F https://www.onsemi.com/pub/Collateral/NC7SZ08-D.PDF
+$ENDCMP
+#
+$CMP PD3S160-7
+D Diodes Inc PD3S160-7, SMT Schottky Diode, 60V 1A, 2-Pin PowerDI 323
+F https://www.diodes.com/assets/Datasheets/ds30899.pdf
+$ENDCMP
+#
+$CMP SI3456DDV-T1-GE3
+D N-Channel, 30-V (D-S) MOSFET
+F http://www.vishay.com/docs/69075/si3456ddv.pdf
 $ENDCMP
 #
 $CMP SP3TSlideTEConn
