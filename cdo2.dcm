@@ -60,6 +60,11 @@ D Analog Devices AD7173-8BCPZ, 24-bit Serial ADC Differential, Single Ended Inpu
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7173-8.pdf
 $ENDCMP
 #
+$CMP AD7796BRUZ
+D AD7796BRUZ, 16 bit ADC Differential, SPI, 16-Pin TSSOP
+F https://componentsearchengine.com/Datasheets/1/AD7796BRUZ.pdf
+$ENDCMP
+#
 $CMP AD8452ASTZ
 D Analog Front End - AFE Battery Formation and Test ASSP
 F https://componentsearchengine.com/Datasheets/1/AD8452ASTZ.pdf

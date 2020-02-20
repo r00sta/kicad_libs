@@ -1,4 +1,4 @@
-(module SOT175P420X230-3N (layer F.Cu) (tedit 5DC18164)
+(module SOT175P420X230-3N (layer F.Cu) (tedit 5E4BD436)
   (descr TDD01H0SB1R)
   (tags Switch)
   (attr smd)
@@ -28,7 +28,7 @@
   (pad 3 smd rect (at 2 0 90) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2 1.75 90) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2 -1.75 90) (size 0.8 1.4) (layers F.Cu F.Paste F.Mask))
-  (model TDD01H0SB1R.stp
+  (model :kicad_libs:TDD01H0SB1R.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
