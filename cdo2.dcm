@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 09734646804
+D Harting 64 Way 2.54mm Pitch, Type R Class C2, 2 Row a/c, Right Angle DIN 41612 Connector, Socket, Solder
+F https://b2b.harting.com/files/download/PRD/PDF_TS/0973464X804_100104712DRW084B.pdf
+$ENDCMP
+#
 $CMP 24.243.2
 D MULTICOMP - 24.243.2 - RECEPTACLE, 20A, 4MM, PCB, SOLDER, BLACK
 F https://componentsearchengine.com/Datasheets/2/24.243.2.pdf

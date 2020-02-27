@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 09734646804
+D Harting 64 Way 2.54mm Pitch, Type R Class C2, 2 Row a/c, Right Angle DIN 41612 Connector, Socket, Solder
+F https://b2b.harting.com/files/download/PRD/PDF_TS/0973464X804_100104712DRW084B.pdf
+$ENDCMP
+#
 $CMP 24.243.2
 D MULTICOMP - 24.243.2 - RECEPTACLE, 20A, 4MM, PCB, SOLDER, BLACK
 F https://componentsearchengine.com/Datasheets/2/24.243.2.pdf
@@ -58,6 +63,11 @@ $ENDCMP
 $CMP AD7173-8BCPZ
 D Analog Devices AD7173-8BCPZ, 24-bit Serial ADC Differential, Single Ended Input, 40-Pin LFCSP
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7173-8.pdf
+$ENDCMP
+#
+$CMP AD7796BRUZ
+D AD7796BRUZ, 16 bit ADC Differential, SPI, 16-Pin TSSOP
+F https://componentsearchengine.com/Datasheets/1/AD7796BRUZ.pdf
 $ENDCMP
 #
 $CMP AD8452ASTZ
@@ -187,6 +197,11 @@ $ENDCMP
 $CMP LPD5030-103MRC
 D COILCRAFT - LPD5030-103MRC - COUPLED INDUCTOR, 10UH, 1.05A, 20%
 F http://www.farnell.com/datasheets/1862246.pdf
+$ENDCMP
+#
+$CMP LQH32PN3R3NN0L
+D LQH32PN_N0 Series Inductor 3.3uH +/-30% 1210 (3225)
+F https://psearch.en.murata.com/inductor/product/LQH32PN3R3NN0%23.html
 $ENDCMP
 #
 $CMP LT3042EMSE#PBF
