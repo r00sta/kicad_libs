@@ -279,6 +279,16 @@ D &plusmn;2.5&deg;C Analog output temperature sensor, with 10mV /&deg;C gain
 F http://www.ti.com/lit/ds/symlink/tmp235.pdf
 $ENDCMP
 #
+$CMP TX24-100R-6ST-H1E
+D JAE TX25 Series, 2.54mm Pitch 100 Way 2 Row Right Angle PCB Header, Solder Termination, 1A
+F https://componentsearchengine.com/Datasheets/1/TX25-100P-LT-H1E.pdf
+$ENDCMP
+#
+$CMP TX25-100P-LT-H1E
+D JAE TX25 Series, 2.54mm Pitch 100 Way 2 Row Right Angle PCB Header, Solder Termination, 1A
+F https://componentsearchengine.com/Datasheets/1/TX25-100P-LT-H1E.pdf
+$ENDCMP
+#
 $CMP WtB_T821_17x2
 D HEADER, VERTICAL, 2.54MM, 34WAY Amphenol T821 Series, 2.54mm Pitch 34 Way 2 Row Straight PCB Header, Solder Termination, 3A
 F http://uk.rs-online.com/web/p/products/8323562
