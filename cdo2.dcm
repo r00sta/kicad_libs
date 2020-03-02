@@ -40,6 +40,11 @@ D Samtec SSW Series 2.54mm Pitch 10 Way 2 Row Right Angle PCB Socket, Through Ho
 F http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf
 $ENDCMP
 #
+$CMP 687150149022
+D Wurth Elektronik WR-FPC 0.5mm Pitch 50 Way Horizontal SMT Female FPC Connector, ZIF Bottom Contact
+F https://componentsearchengine.com/Datasheets/1/687150149022.pdf
+$ENDCMP
+#
 $CMP 8191-2
 D Keystone, Brass Screw Terminal, 22  14 AWG, 15A
 F http://uk.rs-online.com/web/p/products/4813973
