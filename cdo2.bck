@@ -294,4 +294,9 @@ D Fixed Inductors
 F https://componentsearchengine.com/Datasheets/1/XAL1510-682MED.pdf
 $ENDCMP
 #
+$CMP XAL5030-332MEB
+D Fixed Inductors 3.3uH 20% 8.1A 23.3mOhms AEC-Q200
+F https://www.coilcraft.com/pdfs/xal50xx.pdf
+$ENDCMP
+#
 #End Doc Library

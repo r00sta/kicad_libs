@@ -274,6 +274,11 @@ D &plusmn;2.5&deg;C Analog output temperature sensor, with 10mV /&deg;C gain
 F http://www.ti.com/lit/ds/symlink/tmp235.pdf
 $ENDCMP
 #
+$CMP WP934SA_3GD
+D Kingbright WP934SA/3GD, Green Right Angle PCB LED Indicator, 3 LEDs 3mm (T-1), PCB Mount
+F https://www.kingbrightusa.com/images/catalog/SPEC/WP934SA-3GD.pdf
+$ENDCMP
+#
 $CMP WtB_T821_17x2
 D HEADER, VERTICAL, 2.54MM, 34WAY Amphenol T821 Series, 2.54mm Pitch 34 Way 2 Row Straight PCB Header, Solder Termination, 3A
 F http://uk.rs-online.com/web/p/products/8323562
@@ -292,6 +297,11 @@ $ENDCMP
 $CMP XAL1510-682MED
 D Fixed Inductors
 F https://componentsearchengine.com/Datasheets/1/XAL1510-682MED.pdf
+$ENDCMP
+#
+$CMP XAL5030-332MEB
+D Fixed Inductors 3.3uH 20% 8.1A 23.3mOhms AEC-Q200
+F https://www.coilcraft.com/pdfs/xal50xx.pdf
 $ENDCMP
 #
 #End Doc Library
