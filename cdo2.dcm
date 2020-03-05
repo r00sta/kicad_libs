@@ -40,6 +40,11 @@ D Samtec SSW Series 2.54mm Pitch 10 Way 2 Row Right Angle PCB Socket, Through Ho
 F http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf
 $ENDCMP
 #
+$CMP 687150149022
+D Wurth Elektronik WR-FPC 0.5mm Pitch 50 Way Horizontal SMT Female FPC Connector, ZIF Bottom Contact
+F https://componentsearchengine.com/Datasheets/1/687150149022.pdf
+$ENDCMP
+#
 $CMP 8191-2
 D Keystone, Brass Screw Terminal, 22  14 AWG, 15A
 F http://uk.rs-online.com/web/p/products/4813973
@@ -274,9 +279,20 @@ D &plusmn;2.5&deg;C Analog output temperature sensor, with 10mV /&deg;C gain
 F http://www.ti.com/lit/ds/symlink/tmp235.pdf
 $ENDCMP
 #
+<<<<<<< HEAD
 $CMP WP934SA_3GD
 D Kingbright WP934SA/3GD, Green Right Angle PCB LED Indicator, 3 LEDs 3mm (T-1), PCB Mount
 F https://www.kingbrightusa.com/images/catalog/SPEC/WP934SA-3GD.pdf
+=======
+$CMP TX24-100R-6ST-H1E
+D JAE TX25 Series, 2.54mm Pitch 100 Way 2 Row Right Angle PCB Header, Solder Termination, 1A
+F https://componentsearchengine.com/Datasheets/1/TX25-100P-LT-H1E.pdf
+$ENDCMP
+#
+$CMP TX25-100P-LT-H1E
+D JAE TX25 Series, 2.54mm Pitch 100 Way 2 Row Right Angle PCB Header, Solder Termination, 1A
+F https://componentsearchengine.com/Datasheets/1/TX25-100P-LT-H1E.pdf
+>>>>>>> 7ed0fd2c3a29c53937626d80d5773dc200c2acf6
 $ENDCMP
 #
 $CMP WtB_T821_17x2
