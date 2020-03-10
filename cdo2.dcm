@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TX24-100R-6ST-H1E
+D JAE 1.27mm 100 Way 2 Row Straight PCB Socket Through Hole Board to Board
+F https://componentsearchengine.com/Datasheets/1/TX24-100R-6ST-H1E.pdf
+$ENDCMP
+#
 $CMP TX25-100P-LT-H1E
 D JAE TX25 Series, 2.54mm Pitch 100 Way 2 Row Right Angle PCB Header, Solder Termination, 1A
 F https://componentsearchengine.com/Datasheets/1/TX25-100P-LT-H1E.pdf
