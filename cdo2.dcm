@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1AS1T2B4M6QES
+D IP67 SPDT Toggle Switch On-On, 5 A, PCB
+F http://uk.rs-online.com/web/p/products/7346971
+$ENDCMP
+#
+$CMP AE101SD1AQ04
+D Switch,toggle,1P,IP67,on on,PCB mount,5A
+F https://componentsearchengine.com/Datasheets/1/AE101SD1AQ04.pdf
+$ENDCMP
+#
 $CMP TX24-100R-6ST-H1E
 D JAE 1.27mm 100 Way 2 Row Straight PCB Socket Through Hole Board to Board
 F https://componentsearchengine.com/Datasheets/1/TX24-100R-6ST-H1E.pdf
