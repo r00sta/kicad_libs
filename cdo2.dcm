@@ -10,6 +10,16 @@ D Switch,toggle,1P,IP67,on on,PCB mount,5A
 F https://componentsearchengine.com/Datasheets/1/AE101SD1AQ04.pdf
 $ENDCMP
 #
+$CMP FCR7350B
+D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
+F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
+$ENDCMP
+#
+$CMP FCR7350R
+D CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED
+F https://componentsearchengine.com/Datasheets/2/FCR7350R.pdf
+$ENDCMP
+#
 $CMP TX24-100R-6ST-H1E
 D JAE 1.27mm 100 Way 2 Row Straight PCB Socket Through Hole Board to Board
 F https://componentsearchengine.com/Datasheets/1/TX24-100R-6ST-H1E.pdf
