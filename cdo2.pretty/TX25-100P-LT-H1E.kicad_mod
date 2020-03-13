@@ -1,4 +1,4 @@
-(module TX25-100P-LT-H1E (layer F.Cu) (tedit 5E5D335E)
+(module TX25-100P-LT-H1E (layer F.Cu) (tedit 5E665728)
   (descr TX25-100P-LT-H1E)
   (tags Connector)
   (fp_text reference J** (at 67.344 5.715) (layer F.SilkS)
@@ -121,7 +121,7 @@
   (pad 2 thru_hole circle (at 66.074 3.81) (size 1.6 1.6) (drill 0.85) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 67.344 5.715) (size 1.6 1.6) (drill 0.85) (layers *.Cu *.Mask))
   (model :kicad_libs:TX25-100P-LT-N1E.stp
-    (offset (xyz 67.34999999999999 -5.75 0))
+    (offset (xyz 67.33 -5.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
