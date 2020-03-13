@@ -2143,6 +2143,49 @@ X LED_3_A 6 1400 0 200 L 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
+<<<<<<< HEAD
+# blackbananashrouded
+#
+DEF blackbananashrouded J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "blackbananashrouded" 650 200 50 H V L CNN
+F2 "cdo2:bananashrouded" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK" 650 -100 50 H I L CNN "Description"
+F5 "1854507" 650 -300 50 H I L CNN "Farnell Part Number"
+F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=1854507&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
+F7 "CLIFF ELECTRONIC COMPONENTS" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "FCR7350B" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 5 5 800 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# redbananashrouded
+#
+DEF redbananashrouded J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "redbananashrouded" 650 200 50 H V L CNN
+F2 "cdo2:bananashrouded" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED" 650 -100 50 H I L CNN "Description"
+F5 "1854508" 650 -300 50 H I L CNN "Farnell Part Number"
+F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=1854508&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
+F7 "CLIFF ELECTRONIC COMPONENTS" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "FCR7350R" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 5 5 800 -100 200 L 50 50 0 0 U
+=======
 # WtB_T821_17x2
 #
 DEF WtB_T821_17x2 J 0 30 Y Y 1 F N
@@ -2277,6 +2320,7 @@ A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
 A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
 X ~ 1 0 0 200 R 50 50 0 0 P
 X ~ 2 800 0 200 L 50 50 0 0 P
+>>>>>>> 6f89745fdc990da7fd4e759fa292f1997c9bb21d
 ENDDRAW
 ENDDEF
 #

@@ -35,4 +35,14 @@ D Kingbright WP934SA/3GD, Green Right Angle PCB LED Indicator, 3 LEDs 3mm (T-1),
 F https://www.kingbrightusa.com/images/catalog/SPEC/WP934SA-3GD.pdf
 $ENDCMP
 #
+$CMP blackbananashrouded
+D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
+F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
+$ENDCMP
+#
+$CMP redbananashrouded
+D CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED
+F https://componentsearchengine.com/Datasheets/2/FCR7350R.pdf
+$ENDCMP
+#
 #End Doc Library
