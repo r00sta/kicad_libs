@@ -1403,22 +1403,45 @@ ENDDEF
 #
 # LPD5030-103MRC
 #
-DEF LPD5030-103MRC L 0 30 Y Y 1 F N
-F0 "L" 650 300 50 H V L CNN
-F1 "LPD5030-103MRC" 650 200 50 H V L CNN
-F2 "cdo2:LPD5030" 650 100 50 H I L CNN
-F3 "" 650 0 50 H I L CNN
-F4 "COILCRAFT - LPD5030-103MRC - COUPLED INDUCTOR, 10UH, 1.05A, 20%" 650 -100 50 H I L CNN "Description"
-F5 "COILCRAFT" 650 -300 50 H I L CNN "Manufacturer_Name"
-F6 "LPD5030-103MRC" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
-F7 "994-LPD5030-103MRC" 650 -500 50 H I L CNN "Mouser Part Number"
-F8 "https://www.mouser.com/Search/Refine.aspx?Keyword=994-LPD5030-103MRC" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DEF LPD5030-103MRC L 0 10 Y N 1 F N
+F0 "L" 0 175 50 H V C CNN
+F1 "LPD5030-103MRC" 0 -175 50 H V C CNN
+F2 "cdo2:LPD5030" -1100 350 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "COILCRAFT - LPD5030-103MRC - COUPLED INDUCTOR, 10UH, 1.05A, 20%" 50 750 50 H I C CNN "Description"
+F5 "COILCRAFT" -1200 250 50 H I C CNN "Manufacturer_Name"
+F6 "LPD5030-103MRC" -1000 450 50 H I C CNN "Manufacturer_Part_Number"
+F7 "994-LPD5030-103MRC" -900 550 50 H I C CNN "Mouser Part Number"
+F8 "https://www.mouser.com/Search/Refine.aspx?Keyword=994-LPD5030-103MRC" 150 650 50 H I C CNN "Mouser Price/Stock"
+$FPLIST
+ Choke_*
+ *Coil*
+ Inductor_*
+ L_*
+$ENDFPLIST
 DRAW
-P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
-X 1 1 0 0 200 R 50 50 0 0 P
-X 2 2 0 -100 200 R 50 50 0 0 P
-X 3 3 800 -100 200 L 50 50 0 0 P
-X 4 4 800 0 200 L 50 50 0 0 P
+A -80 -80 20 1 1799 0 1 0 N -60 -80 -100 -80
+A -80 80 20 -1799 -1 0 1 0 N -100 80 -60 80
+A -40 -80 20 1 1799 0 1 0 N -20 -80 -60 -80
+A -40 80 20 -1799 -1 0 1 0 N -60 80 -20 80
+A 0 -80 20 1 1799 0 1 0 N 20 -80 -20 -80
+A 0 80 20 -1799 -1 0 1 0 N -20 80 20 80
+A 40 -80 20 1 1799 0 1 0 N 60 -80 20 -80
+A 40 80 20 -1799 -1 0 1 0 N 20 80 60 80
+A 80 -80 20 1 1799 0 1 0 N 100 -80 60 -80
+A 80 80 20 -1799 -1 0 1 0 N 60 80 100 80
+C -120 -50 10 0 1 0 F
+C -120 60 10 0 1 0 F
+P 2 0 1 0 -100 -80 -100 -100 N
+P 2 0 1 0 -100 20 100 20 N
+P 2 0 1 0 -100 80 -100 100 N
+P 2 0 1 0 100 -80 100 -100 N
+P 2 0 1 0 100 -20 -100 -20 N
+P 2 0 1 0 100 100 100 80 N
+X 1 1 -200 100 100 R 50 50 1 1 P
+X 2 2 200 100 100 L 50 50 1 1 P
+X 3 3 200 -100 100 L 50 50 1 1 P
+X 4 4 -200 -100 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -2143,50 +2166,6 @@ X LED_3_A 6 1400 0 200 L 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
-# blackbananashrouded
-#
-DEF blackbananashrouded J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "blackbananashrouded" 650 200 50 H V L CNN
-F2 "cdo2:bananashrouded" 650 100 50 H I L CNN
-F3 "" 650 0 50 H I L CNN
-F4 "CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK" 650 -100 50 H I L CNN "Description"
-F5 "1854507" 650 -300 50 H I L CNN "Farnell Part Number"
-F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=1854507&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
-F7 "CLIFF ELECTRONIC COMPONENTS" 650 -500 50 H I L CNN "Manufacturer_Name"
-F8 "FCR7350B" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
-X 1 1 0 0 200 R 50 50 0 0 U
-X 2 2 0 -100 200 R 50 50 0 0 U
-X 3 3 0 -200 200 R 50 50 0 0 U
-X 4 4 800 0 200 L 50 50 0 0 U
-X 5 5 800 -100 200 L 50 50 0 0 U
-ENDDRAW
-ENDDEF
-#
-# redbananashrouded
-#
-DEF redbananashrouded J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "redbananashrouded" 650 200 50 H V L CNN
-F2 "cdo2:bananashrouded" 650 100 50 H I L CNN
-F3 "" 650 0 50 H I L CNN
-F4 "CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED" 650 -100 50 H I L CNN "Description"
-F5 "1854508" 650 -300 50 H I L CNN "Farnell Part Number"
-F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=1854508&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
-F7 "CLIFF ELECTRONIC COMPONENTS" 650 -500 50 H I L CNN "Manufacturer_Name"
-F8 "FCR7350R" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
-X 1 1 0 0 200 R 50 50 0 0 U
-X 2 2 0 -100 200 R 50 50 0 0 U
-X 3 3 0 -200 200 R 50 50 0 0 U
-X 4 4 800 0 200 L 50 50 0 0 U
-X 5 5 800 -100 200 L 50 50 0 0 U
-ENDDRAW
-ENDDEF
-#
 # WtB_T821_17x2
 #
 DEF WtB_T821_17x2 J 0 30 Y Y 1 F N
@@ -2321,6 +2300,50 @@ A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
 A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
 X ~ 1 0 0 200 R 50 50 0 0 P
 X ~ 2 800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# blackbananashrouded
+#
+DEF blackbananashrouded J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "blackbananashrouded" 650 200 50 H V L CNN
+F2 "cdo2:bananashrouded" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK" 650 -100 50 H I L CNN "Description"
+F5 "1854507" 650 -300 50 H I L CNN "Farnell Part Number"
+F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=1854507&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
+F7 "CLIFF ELECTRONIC COMPONENTS" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "FCR7350B" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 5 5 800 -100 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# redbananashrouded
+#
+DEF redbananashrouded J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "redbananashrouded" 650 200 50 H V L CNN
+F2 "cdo2:bananashrouded" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED" 650 -100 50 H I L CNN "Description"
+F5 "1854508" 650 -300 50 H I L CNN "Farnell Part Number"
+F6 "http://uk.farnell.com/jsp/displayProduct.jsp?sku=1854508&action=view" 650 -400 50 H I L CNN "Farnell Price/Stock"
+F7 "CLIFF ELECTRONIC COMPONENTS" 650 -500 50 H I L CNN "Manufacturer_Name"
+F8 "FCR7350R" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+X 5 5 800 -100 200 L 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
