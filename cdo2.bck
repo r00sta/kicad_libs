@@ -26,12 +26,6 @@ K inductor choke coil reactor magnetic coupled
 F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
 $ENDCMP
 #
-$CMP LPD5030-103MRC_new
-D Coupled inductor with iron core
-K inductor choke coil reactor magnetic coupled
-F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
-$ENDCMP
-#
 $CMP TX24-100R-6ST-H1E
 D JAE 1.27mm 100 Way 2 Row Straight PCB Socket Through Hole Board to Board
 F https://componentsearchengine.com/Datasheets/1/TX24-100R-6ST-H1E.pdf
