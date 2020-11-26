@@ -1,4 +1,4 @@
-(module 09734646804 (layer F.Cu) (tedit 5E57D12C)
+(module 09734646804 (layer F.Cu) (tedit 5F50F9F6)
   (descr 09734646804)
   (tags Connector)
   (fp_text reference J** (at 0 0) (layer F.SilkS)
@@ -93,5 +93,10 @@
     (offset (xyz 47 3 18))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))
+  )
+  (model /home/ikshith/CDO2/CDO2-CAD/Components/DIN_41612_64Pins_Male_V1/14281.stp
+    (offset (xyz 0 9.35 5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
   )
 )
