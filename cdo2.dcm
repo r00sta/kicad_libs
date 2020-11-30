@@ -5,6 +5,10 @@ D IP67 SPDT Toggle Switch On-On, 5 A, PCB
 F http://uk.rs-online.com/web/p/products/7346971
 $ENDCMP
 #
+$CMP ADS8867IDGS
+F http://www.ti.com/lit/ds/symlink/ads8867.pdf
+$ENDCMP
+#
 $CMP AE101SD1AQ04
 D Switch,toggle,1P,IP67,on on,PCB mount,5A
 F https://componentsearchengine.com/Datasheets/1/AE101SD1AQ04.pdf
