@@ -10,6 +10,11 @@ D Switch,toggle,1P,IP67,on on,PCB mount,5A
 F https://componentsearchengine.com/Datasheets/1/AE101SD1AQ04.pdf
 $ENDCMP
 #
+$CMP ARJM11C7-009-AB-EW2
+D Modular Connectors / Ethernet Connectors RJ45 JACK W/MAG 100Base-T
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0031023.pdf
+$ENDCMP
+#
 $CMP FCR7350B
 D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
 F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
@@ -18,6 +23,11 @@ $ENDCMP
 $CMP FCR7350R
 D CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED
 F https://componentsearchengine.com/Datasheets/2/FCR7350R.pdf
+$ENDCMP
+#
+$CMP IX80G-B-10P
+D I/O Connectors IX Vertical Type B
+F https://www.hirose.com/product/document?clcode=CL0251-0019-0-00&productname=IX80G-B-10P&series=IX&documenttype=Catalog&lang=en&documentid=D144096_en
 $ENDCMP
 #
 $CMP LPD5030-103MRC
