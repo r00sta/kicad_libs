@@ -40,6 +40,12 @@ K inductor choke coil reactor magnetic coupled
 F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
 $ENDCMP
 #
+$CMP M12_Circular_Connector_5_Contact
+D 6-pin DIN connector
+K circular DIN connector
+F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
+$ENDCMP
+#
 $CMP TX24-100R-6ST-H1E
 D JAE 1.27mm 100 Way 2 Row Straight PCB Socket Through Hole Board to Board
 F https://componentsearchengine.com/Datasheets/1/TX24-100R-6ST-H1E.pdf
