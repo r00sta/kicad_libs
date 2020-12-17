@@ -14,6 +14,11 @@ D Switch,toggle,1P,IP67,on on,PCB mount,5A
 F https://componentsearchengine.com/Datasheets/1/AE101SD1AQ04.pdf
 $ENDCMP
 #
+$CMP ARJM11C7-009-AB-EW2
+D Modular Connectors / Ethernet Connectors RJ45 JACK W/MAG 100Base-T
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0031023.pdf
+$ENDCMP
+#
 $CMP FCR7350B
 D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
 F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
@@ -24,10 +29,21 @@ D CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED
 F https://componentsearchengine.com/Datasheets/2/FCR7350R.pdf
 $ENDCMP
 #
+$CMP IX80G-B-10P
+D I/O Connectors IX Vertical Type B
+F https://www.hirose.com/product/document?clcode=CL0251-0019-0-00&productname=IX80G-B-10P&series=IX&documenttype=Catalog&lang=en&documentid=D144096_en
+$ENDCMP
+#
 $CMP LPD5030-103MRC
 D Coupled inductor with iron core
 K inductor choke coil reactor magnetic coupled
 F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
+$ENDCMP
+#
+$CMP M12_Circular_Connector_5_Contact
+D 6-pin DIN connector
+K circular DIN connector
+F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
 $ENDCMP
 #
 $CMP TX24-100R-6ST-H1E

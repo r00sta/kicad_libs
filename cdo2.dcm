@@ -46,6 +46,10 @@ K circular DIN connector
 F http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf
 $ENDCMP
 #
+$CMP TMP235
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp235
+$ENDCMP
+#
 $CMP TX24-100R-6ST-H1E
 D JAE 1.27mm 100 Way 2 Row Straight PCB Socket Through Hole Board to Board
 F https://componentsearchengine.com/Datasheets/1/TX24-100R-6ST-H1E.pdf

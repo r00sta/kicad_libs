@@ -2291,17 +2291,17 @@ X C 3 800 0 200 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
-# TMP235A2DCKT
+# TMP235
 #
-DEF TMP235A2DCKT IC 0 30 Y Y 1 F N
+DEF TMP235 IC 0 30 Y Y 1 F N
 F0 "IC" 950 300 50 H V L CNN
-F1 "TMP235A2DCKT" 950 200 50 H V L CNN
+F1 "TMP235" 950 200 50 H V L CNN
 F2 "cdo2:SOT65P210X110-5N" 950 100 50 H I L CNN
 F3 "" 950 0 50 H I L CNN
-F4 "&plusmn;2.5&deg;C Analog output temperature sensor, with 10mV /&deg;C gain" 950 -100 50 H I L CNN "Description"
-F5 "1.1" 950 -200 50 H I L CNN "Height"
-F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
-F7 "TMP235A2DCKT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F4 "TMP235A2DCKT" 950 -400 50 H I L CNN "MFG ID"
+F5 "&plusmn;2.5&deg;C Analog output temperature sensor, with 10mV /&deg;C gain" 950 -100 50 H I L CNN "Description"
+F6 "1.1" 950 -200 50 H I L CNN "Height"
+F7 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
 F8 "595-TMP235A2DCKT" 950 -500 50 H I L CNN "Mouser Part Number"
 F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TMP235A2DCKT" 950 -600 50 H I L CNN "Mouser Price/Stock"
 DRAW
