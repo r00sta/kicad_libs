@@ -5,6 +5,30 @@ D IP67 SPDT Toggle Switch On-On, 5 A, PCB
 F http://uk.rs-online.com/web/p/products/7346971
 $ENDCMP
 #
+$CMP 60pinEdgeConnector
+F 408-52060-100-11
+$ENDCMP
+#
+$CMP 80pinEdgeConnector
+F 408-52080-100-11
+$ENDCMP
+#
+$CMP ACS71240,3.3V,30A
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS71240-Data-Sheet.ashx
+$ENDCMP
+#
+$CMP ADG1438
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1438_1439.pdf
+$ENDCMP
+#
+$CMP ADG1439
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1438_1439.pdf
+$ENDCMP
+#
+$CMP ADS8867
+F http://www.ti.com/lit/ds/symlink/ads8867.pdf
+$ENDCMP
+#
 $CMP ADS8867IDGS
 F http://www.ti.com/lit/ds/symlink/ads8867.pdf
 $ENDCMP
