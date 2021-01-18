@@ -43,6 +43,12 @@ D Modular Connectors / Ethernet Connectors RJ45 JACK W/MAG 100Base-T
 F https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0031023.pdf
 $ENDCMP
 #
+$CMP C3E-12.000-12-1010-X
+D HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD
+K Crystal Clock Oscillator ECS SMD
+F https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf
+$ENDCMP
+#
 $CMP FCR7350B
 D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
 F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
