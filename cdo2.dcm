@@ -74,6 +74,11 @@ K inductor choke coil reactor magnetic coupled
 F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
 $ENDCMP
 #
+$CMP LTST-C155KGJRKT
+D LTST-C155KGJRKT
+F http://optoelectronics.liteon.com/upload/download/DS22-2001-038/LTST-C155KGJRKT.pdf
+$ENDCMP
+#
 $CMP M12_Circular_Connector_5_Contact
 D 6-pin DIN connector
 K circular DIN connector
