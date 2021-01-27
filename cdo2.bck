@@ -9,6 +9,11 @@ $CMP 60pinEdgeConnector
 F 408-52060-100-11
 $ENDCMP
 #
+$CMP 749020111A
+D 749020111A
+F https://katalog.we-online.com/pbs/datasheet/749020111A.pdf
+$ENDCMP
+#
 $CMP 80pinEdgeConnector
 F 408-52080-100-11
 $ENDCMP
