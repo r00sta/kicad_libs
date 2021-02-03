@@ -35,6 +35,10 @@ $CMP ADG1439
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1438_1439.pdf
 $ENDCMP
 #
+$CMP ADM7171ACPZ-3.3-R7
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM7171.pdf
+$ENDCMP
+#
 $CMP ADS8867
 F http://www.ti.com/lit/ds/symlink/ads8867.pdf
 $ENDCMP
@@ -55,6 +59,16 @@ $ENDCMP
 #
 $CMP ATSAME70Q21A-CN
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589960
+$ENDCMP
+#
+$CMP Banana_Shrouded_Black
+D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
+F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
+$ENDCMP
+#
+$CMP Banana_Shrouded_Red
+D CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED
+F https://componentsearchengine.com/Datasheets/2/FCR7350R.pdf
 $ENDCMP
 #
 $CMP C3E-12.000-12-1010-X
@@ -84,6 +98,20 @@ K inductor choke coil reactor magnetic coupled
 F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
 $ENDCMP
 #
+$CMP LT1615ES5#TRMPBF
+F http://docs-emea.rs-online.com/webdocs/0ab7/0900766b80ab7d99.pdf
+$ENDCMP
+#
+$CMP LT3008EDC-5
+D -2.5V, 1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit, TO-263-5
+K negative voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3015fb.pdf
+$ENDCMP
+#
+$CMP LT3650EDD-4.1#PBF
+F https://componentsearchengine.com/Datasheets/2/LT3650EDD-4.1#PBF.pdf
+$ENDCMP
+#
 $CMP LTST-C155KGJRKT
 D LTST-C155KGJRKT
 F http://optoelectronics.liteon.com/upload/download/DS22-2001-038/LTST-C155KGJRKT.pdf
@@ -97,6 +125,10 @@ $ENDCMP
 #
 $CMP MIC33153YHJ
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic33153.pdf
+$ENDCMP
+#
+$CMP NFET,PowerPAK1212-8
+F https://www.vishay.com/docs/76681/sisa40dn.pdf
 $ENDCMP
 #
 $CMP RJ31
@@ -159,6 +191,10 @@ K 8P8C RJ female connector
 F ~
 $ENDCMP
 #
+$CMP SI7234DP-T1-GE3
+F https://componentsearchengine.com/Datasheets/1/SI7234DP-T1-GE3.pdf
+$ENDCMP
+#
 $CMP TMP235
 F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp235
 $ENDCMP
@@ -182,16 +218,6 @@ $CMP ZTL431AFTA
 D Shunt Regulator, SOT-23
 K diode device shunt regulator
 F http://www.cj-elec.com/txUpfile/20134181474991806.pdf
-$ENDCMP
-#
-$CMP blackbananashrouded
-D CLIFF ELECTRONIC COMPONENTS - FCR7350B - SOCKET, PCB, 4MM, R/A, S16N-PC, BLK
-F https://componentsearchengine.com/Datasheets/2/FCR7350B.pdf
-$ENDCMP
-#
-$CMP redbananashrouded
-D CLIFF ELECTRONIC COMPONENTS - FCR7350R - SOCKET, PCB, 4MM, R/A, S16N-PC, RED
-F https://componentsearchengine.com/Datasheets/2/FCR7350R.pdf
 $ENDCMP
 #
 #End Doc Library
