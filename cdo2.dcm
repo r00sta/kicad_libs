@@ -5,6 +5,10 @@ D IP67 SPDT Toggle Switch On-On, 5 A, PCB
 F http://uk.rs-online.com/web/p/products/7346971
 $ENDCMP
 #
+$CMP 4PDT_Toggle_Switch
+D SWITCH TOGGLE 4PDT 5A 120V
+$ENDCMP
+#
 $CMP 54601-908WPLF
 D Modular Connectors / Ethernet Connectors 8P8C CAT 3 MOD JACK HORIZ. 1 PORT
 F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0051.pdf
