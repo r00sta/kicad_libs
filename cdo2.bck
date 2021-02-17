@@ -104,6 +104,10 @@ K inductor choke coil reactor magnetic coupled
 F https://www.mouser.co.uk/datasheet/2/597/Coilcraft_lpd5030-1214862.pdf
 $ENDCMP
 #
+$CMP LT1613CS5#TRMPBF
+F http://docs-emea.rs-online.com/webdocs/0ab7/0900766b80ab7d99.pdf
+$ENDCMP
+#
 $CMP LT1615ES5#TRMPBF
 F http://docs-emea.rs-online.com/webdocs/0ab7/0900766b80ab7d99.pdf
 $ENDCMP
@@ -203,6 +207,10 @@ $ENDCMP
 #
 $CMP TMP235
 F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp235
+$ENDCMP
+#
+$CMP TPS54201DDCR
+F http://www.ti.com/lit/gpn/TPS54201
 $ENDCMP
 #
 $CMP TX24-100R-6ST-H1E
