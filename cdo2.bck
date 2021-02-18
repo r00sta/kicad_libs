@@ -108,10 +108,6 @@ $CMP LT1613CS5#TRMPBF
 F http://docs-emea.rs-online.com/webdocs/0ab7/0900766b80ab7d99.pdf
 $ENDCMP
 #
-$CMP LT1615ES5#TRMPBF
-F http://docs-emea.rs-online.com/webdocs/0ab7/0900766b80ab7d99.pdf
-$ENDCMP
-#
 $CMP LT3008EDC-5
 D -2.5V, 1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit, TO-263-5
 K negative voltage regulator
@@ -223,9 +219,19 @@ D JAE TX25 Series, 2.54mm Pitch 100 Way 2 Row Right Angle PCB Header, Solder Ter
 F https://componentsearchengine.com/Datasheets/1/TX25-100P-LT-H1E.pdf
 $ENDCMP
 #
+$CMP TYS6028100M-10
+F https://www.mouser.de/datasheet/2/987/Catalog_Power_Inductor_TYS_SERIES_0617-1591072.pdf
+$ENDCMP
+#
 $CMP WP934SA3GD
 D Kingbright WP934SA/3GD, Green Right Angle PCB LED Indicator, 3 LEDs 3mm (T-1), PCB Mount
 F https://www.kingbrightusa.com/images/catalog/SPEC/WP934SA-3GD.pdf
+$ENDCMP
+#
+$CMP XRCFD25M000F2N51R0
+D Crystal Clock Oscillator, Abracon ASCO
+K Crystal Clock Oscillator
+F https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/crystalu/p79e.ashx?la=en-us
 $ENDCMP
 #
 $CMP ZTL431AFTA
