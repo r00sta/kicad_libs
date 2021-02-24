@@ -13,6 +13,11 @@ $CMP 4PDT_Toggle_Switch
 D SWITCH TOGGLE 4PDT 5A 120V
 $ENDCMP
 #
+$CMP 5151011F+LTST-C155KGJRKT
+D Light Pipe Single Clear Rigid  Board Mount, Press Fit, Right Angle
+F http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C15754.pdf
+$ENDCMP
+#
 $CMP 54601-908WPLF
 D Modular Connectors / Ethernet Connectors 8P8C CAT 3 MOD JACK HORIZ. 1 PORT
 F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0051.pdf

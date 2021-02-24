@@ -13,6 +13,11 @@ $CMP 4PDT_Toggle_Switch
 D SWITCH TOGGLE 4PDT 5A 120V
 $ENDCMP
 #
+$CMP 5151011F+LTST-C155KGJRKT
+D Light Pipe Single Clear Rigid  Board Mount, Press Fit, Right Angle
+F http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C15754.pdf
+$ENDCMP
+#
 $CMP 54601-908WPLF
 D Modular Connectors / Ethernet Connectors 8P8C CAT 3 MOD JACK HORIZ. 1 PORT
 F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0051.pdf
@@ -230,12 +235,6 @@ $ENDCMP
 $CMP WP934SA3GD
 D Kingbright WP934SA/3GD, Green Right Angle PCB LED Indicator, 3 LEDs 3mm (T-1), PCB Mount
 F https://www.kingbrightusa.com/images/catalog/SPEC/WP934SA-3GD.pdf
-$ENDCMP
-#
-$CMP XRCFD25M000F2N51R0
-D Crystal Clock Oscillator, Abracon ASCO
-K Crystal Clock Oscillator
-F https://www.murata.com/-/media/webrenewal/support/library/catalog/products/timingdevice/crystalu/p79e.ashx?la=en-us
 $ENDCMP
 #
 $CMP ZTL431AFTA
