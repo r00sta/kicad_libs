@@ -48,6 +48,10 @@ $CMP ADG1439
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1438_1439.pdf
 $ENDCMP
 #
+$CMP ADM3058EBRIZ-RL
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adm3058e.pdf
+$ENDCMP
+#
 $CMP ADM7171ACPZ-3.3-R7
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM7171.pdf
 $ENDCMP
@@ -125,6 +129,10 @@ $ENDCMP
 #
 $CMP LT3650EDD-4.1#PBF
 F https://componentsearchengine.com/Datasheets/2/LT3650EDD-4.1#PBF.pdf
+$ENDCMP
+#
+$CMP LTM2889HY-3#PBF
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2889fa.pdf
 $ENDCMP
 #
 $CMP LTST-C155KGJRKT
