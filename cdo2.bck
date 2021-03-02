@@ -111,6 +111,10 @@ D I/O Connectors IX Vertical Type B
 F https://www.hirose.com/product/document?clcode=CL0251-0019-0-00&productname=IX80G-B-10P&series=IX&documenttype=Catalog&lang=en&documentid=D144096_en
 $ENDCMP
 #
+$CMP KSZ8863RLLI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00002335B.pdf
+$ENDCMP
+#
 $CMP LPD5030-103MRC
 D Coupled inductor with iron core
 K inductor choke coil reactor magnetic coupled
@@ -148,6 +152,10 @@ $ENDCMP
 #
 $CMP MIC33153YHJ
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic33153.pdf
+$ENDCMP
+#
+$CMP MicroCANMale
+F https://www.farnell.com/datasheets/2309138.pdf
 $ENDCMP
 #
 $CMP NFET,PowerPAK1212-8
