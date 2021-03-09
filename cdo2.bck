@@ -226,6 +226,12 @@ $CMP SI7234DP-T1-GE3
 F https://componentsearchengine.com/Datasheets/1/SI7234DP-T1-GE3.pdf
 $ENDCMP
 #
+$CMP SW_DIP_1
+D 1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
 $CMP TMP235
 F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp235
 $ENDCMP
