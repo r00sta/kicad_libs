@@ -159,7 +159,7 @@ F https://www.farnell.com/datasheets/2309138.pdf
 $ENDCMP
 #
 $CMP MicroCANMale
-F https://www.farnell.com/datasheets/2309138.pdf
+F https://www.farnell.com/datasheets/2309145.pdf
 $ENDCMP
 #
 $CMP NFET,PowerPAK1212-8
