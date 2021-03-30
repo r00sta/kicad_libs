@@ -74,6 +74,10 @@ D Modular Connectors / Ethernet Connectors RJ45 JACK W/MAG 100Base-T
 F https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0031023.pdf
 $ENDCMP
 #
+$CMP AT24CM02-SSHM-B
+F https://www.mouser.co.id/datasheet/2/268/Atmel-8828-SEEPROM-AT24CM02-Datasheet-1398087.pdf
+$ENDCMP
+#
 $CMP ATSAME70Q21A-CN
 D SAM E70 Microchip SMART ARM Cortex-M7-based MCU, 2048K Flash, 384K SRAM, LQFP144
 K 32-bit ARM Cortex-M7 MCU Microcontroller
@@ -233,6 +237,10 @@ $ENDCMP
 #
 $CMP SI7234DP-T1-GE3
 F https://componentsearchengine.com/Datasheets/1/SI7234DP-T1-GE3.pdf
+$ENDCMP
+#
+$CMP SN75HVD08DR
+F http://www.ti.com/lit/ds/symlink/sn75hvd08.pdf
 $ENDCMP
 #
 $CMP SW_DIP_1

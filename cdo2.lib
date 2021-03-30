@@ -2028,6 +2028,34 @@ X MH2 MH2 650 -300 200 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
+# AT24CM02-SSHM-B
+#
+DEF AT24CM02-SSHM-B U 0 30 Y Y 1 F N
+F0 "U" 950 300 50 H V L CNN
+F1 "AT24CM02-SSHM-B" 950 200 50 H V L CNN
+F2 "cdo2:SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "" 950 0 50 H I L CNN
+F4 "Microchip Technology SEEPROM, 2M, I2C - 1.7-5.5V, 1MHz, Ind Tmp, 8-SOIC-N" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "Microchip" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AT24CM02-SSHM-B" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-AT24CM02-SSHM-B" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/AT24CM02-SSHM-B/?qs=PUo64BuKcKhyyKfULTKDLw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "AT24CM02-SSHM-B" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/at24cm02-sshm-b/microchip-technology" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+X NC_1 1 0 0 200 R 50 50 0 0 P
+X NC_2 2 0 -100 200 R 50 50 0 0 P
+X A2 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X SDA 5 1100 -300 200 L 50 50 0 0 P
+X SCL 6 1100 -200 200 L 50 50 0 0 P
+X WP 7 1100 -100 200 L 50 50 0 0 P
+X VCC 8 1100 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
 # AT24MAC402-MAHM-T
 #
 DEF AT24MAC402-MAHM-T U 0 40 Y Y 1 F N
@@ -3955,6 +3983,34 @@ X D2 6 1000 0 200 L 50 50 0 0 P N
 X D1 7 1000 -300 200 L 50 50 0 0 P
 X D1 8 1000 -300 200 L 50 50 0 0 P N
 X D2 9 1000 0 200 L 50 50 0 0 P N
+ENDDRAW
+ENDDEF
+#
+# SN75HVD08DR
+#
+DEF SN75HVD08DR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "SN75HVD08DR" 850 200 50 H V L CNN
+F2 "cdo2:SOIC127P600X175-8N" 850 100 50 H I L CNN
+F3 "" 850 0 50 H I L CNN
+F4 "Wide Supply Range RS-485 Transceiver" 850 -100 50 H I L CNN "Description"
+F5 "1.75" 850 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SN75HVD08DR" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-SN75HVD08DR" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN75HVD08DR?qs=bvCpHSZmQjl1%252B3BEN26qeQ%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SN75HVD08DR" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sn75hvd08dr/texas-instruments" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+X R 1 0 0 200 R 50 50 0 0 P
+X ~RE 2 0 -100 200 R 50 50 0 0 P
+X DE 3 0 -200 200 R 50 50 0 0 P
+X D 4 0 -300 200 R 50 50 0 0 P
+X GND 5 1000 -300 200 L 50 50 0 0 P
+X A 6 1000 -200 200 L 50 50 0 0 P
+X B 7 1000 -100 200 L 50 50 0 0 P
+X VCC 8 1000 0 200 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
