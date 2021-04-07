@@ -144,6 +144,11 @@ $CMP LT3650EDD-4.1#PBF
 F https://componentsearchengine.com/Datasheets/2/LT3650EDD-4.1#PBF.pdf
 $ENDCMP
 #
+$CMP LTC2854CDD#PBF
+D LTC2854CDD#PBF, Line Transceiver, EIA/TIA-485-A, RS-485, RS-422 20Mbit/s Differential, 3.3 V, 10-Pin DFN EP
+F http://www.linear.com/docs/19199
+$ENDCMP
+#
 $CMP LTM2889HY-3#PBF
 F https://www.analog.com/media/en/technical-documentation/data-sheets/2889fa.pdf
 $ENDCMP
@@ -233,6 +238,11 @@ $CMP RJ61
 D RJ connector, 8P8C (8 positions 8 connected)
 K 8P8C RJ female connector
 F ~
+$ENDCMP
+#
+$CMP SD-RSMT-2-MQ-WF
+D Memory Card Connectors SD CARD CONNECTOR 3M Normal Polarization, Push-Push, Surfacemount
+F http://multimedia.3m.com/mws/media/421333O/3mtm-card-connector-sdtm-ts2198.pdf
 $ENDCMP
 #
 $CMP SI7234DP-T1-GE3
