@@ -176,6 +176,10 @@ $CMP MicroCANMale
 F https://www.farnell.com/datasheets/2309145.pdf
 $ENDCMP
 #
+$CMP MicroSDsocket
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/5027740891_MEMORY_CARD_SOCKET.pdf
+$ENDCMP
+#
 $CMP NFET,PowerPAK1212-8
 F https://www.vishay.com/docs/76681/sisa40dn.pdf
 $ENDCMP
