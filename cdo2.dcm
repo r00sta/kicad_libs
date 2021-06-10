@@ -244,6 +244,10 @@ K 8P8C RJ female connector
 F ~
 $ENDCMP
 #
+$CMP S20B-PUDSS-1_LF__SN_
+F http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf
+$ENDCMP
+#
 $CMP SD-RSMT-2-MQ-WF
 D Memory Card Connectors SD CARD CONNECTOR 3M Normal Polarization, Push-Push, Surfacemount
 F http://multimedia.3m.com/mws/media/421333O/3mtm-card-connector-sdtm-ts2198.pdf
