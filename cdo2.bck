@@ -176,6 +176,10 @@ $CMP MicroCANMale
 F https://www.farnell.com/datasheets/2309145.pdf
 $ENDCMP
 #
+$CMP MicroSDVertical
+F https://www.yamaichi.de/uploads/media/PJS008U-3000.pdf
+$ENDCMP
+#
 $CMP MicroSDsocket
 F https://www.molex.com/webdocs/datasheets/pdf/en-us/5027740891_MEMORY_CARD_SOCKET.pdf
 $ENDCMP
@@ -242,6 +246,10 @@ $CMP RJ61
 D RJ connector, 8P8C (8 positions 8 connected)
 K 8P8C RJ female connector
 F ~
+$ENDCMP
+#
+$CMP S20B-PUDSS-1_LF__SN_
+F http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf
 $ENDCMP
 #
 $CMP SD-RSMT-2-MQ-WF
