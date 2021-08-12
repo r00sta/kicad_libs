@@ -4,6 +4,10 @@ $CMP 100SP1T1B4M2QE
 F http://spec_sheets.e-switch.com/specs/T111597.pdf
 $ENDCMP
 #
+$CMP 100SP1T2B4M6QE
+F http://spec_sheets.e-switch.com/specs/T111069.pdf
+$ENDCMP
+#
 $CMP 1AS1T2B4M6QES
 D IP67 SPDT Toggle Switch On-On, 5 A, PCB
 F http://uk.rs-online.com/web/p/products/7346971
@@ -86,6 +90,96 @@ $CMP ATSAME70Q21A-CN
 D SAM E70 Microchip SMART ARM Cortex-M7-based MCU, 2048K Flash, 384K SRAM, LQFP144
 K 32-bit ARM Cortex-M7 MCU Microcontroller
 F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527D.pdf
+$ENDCMP
+#
+$CMP Arduino_101_Shield
+D Shield for Arduino 101
+K Arduino MPU Shield
+F https://store.arduino.cc/genuino-101
+$ENDCMP
+#
+$CMP Arduino_Due_Shield
+D Shield for Arduino Due
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-due
+$ENDCMP
+#
+$CMP Arduino_Leonardo_Shield
+D Shield for Arduino Leonardo
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-leonardo-with-headers
+$ENDCMP
+#
+$CMP Arduino_M0_Pro_Shield
+D Shield for Arduino M0 Pro
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-m0-pro
+$ENDCMP
+#
+$CMP Arduino_M0_Shield
+D Shield for Arduino M0
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-m0
+$ENDCMP
+#
+$CMP Arduino_Mega2560_Shield
+D Shield for Arduino Mega 2560
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mega-2560-rev3
+$ENDCMP
+#
+$CMP Arduino_Micro_Socket
+D Socket for Arduino Micro
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-micro
+$ENDCMP
+#
+$CMP Arduino_Mini_02_Socket
+D Socket for Arduino Mini 02
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mini-05
+$ENDCMP
+#
+$CMP Arduino_Mini_03_Socket
+D Socket for Arduino Mini 03
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mini-05
+$ENDCMP
+#
+$CMP Arduino_Mini_04_Socket
+D Socket for Arduino Mini 04
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mini-05
+$ENDCMP
+#
+$CMP Arduino_Mini_05_Socket
+D Socket for Arduino Mini 05
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mini-05
+$ENDCMP
+#
+$CMP Arduino_Mini_05_Socket_copy
+D Socket for Arduino Mini 05
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-mini-05
+$ENDCMP
+#
+$CMP Arduino_Nano_Socket
+D Socket for Arduino Nano
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-nano
+$ENDCMP
+#
+$CMP Arduino_Uno_Shield
+D Shield for Arduino Uno
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-uno-rev3
+$ENDCMP
+#
+$CMP Arduino_Zero_Shield
+D Shield for Arduino Zero
+K Arduino MPU Shield
+F https://store.arduino.cc/genuino-zero
 $ENDCMP
 #
 $CMP Banana_Shrouded_Black
