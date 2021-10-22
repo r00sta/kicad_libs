@@ -48,6 +48,16 @@ $CMP ACS71240,3.3V,30A
 F https://www.allegromicro.com/~/media/Files/Datasheets/ACS71240-Data-Sheet.ashx
 $ENDCMP
 #
+$CMP AD5941BCPZ
+D Data Acquisition ADCs/DACs - Specialized Bio-Impedance & Electrochemical AFE
+F https://www.mouser.com/datasheet/2/609/AD5940-5941-1635154.pdf
+$ENDCMP
+#
+$CMP AD8694ARZ
+D AD8694ARZ, Quad Operational Amplifier 10MHz CMOS, Rail-Rail, 3 V, 5 V, 14-Pin SOIC
+F http://www.analog.com/static/imported-files/data_sheets/AD8691_8692_8694.pdf
+$ENDCMP
+#
 $CMP ADG1438
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1438_1439.pdf
 $ENDCMP
@@ -56,8 +66,23 @@ $CMP ADG1439
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1438_1439.pdf
 $ENDCMP
 #
+$CMP ADG1609BCPZ-REEL7
+D 2x4:1 MUX
+F http://componentsearchengine.com/Datasheets/1/ADG1609BCPZ-REEL7.pdf
+$ENDCMP
+#
+$CMP ADG636YRUZ
+D ADG636YRUZ, Analogue SPDT Switch Dual SPDT, 3, 5V, 14-Pin, TSSOP
+F http://www.analog.com/static/imported-files/data_sheets/ADG636.pdf
+$ENDCMP
+#
 $CMP ADM3058EBRIZ-RL
 F https://www.analog.com/media/en/technical-documentation/data-sheets/adm3058e.pdf
+$ENDCMP
+#
+$CMP ADM7155ARDZ-04-R7
+D LDO Voltage Regulators 600mA Ultra-Low-Nois High-PSRR LDO ADJ
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM7155.pdf
 $ENDCMP
 #
 $CMP ADM7171ACPZ-3.3-R7
