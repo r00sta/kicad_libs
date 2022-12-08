@@ -19,6 +19,7 @@ out.writerow([
 	'part_name',
 	'quantity',
 	'optional',
+	'dnp',
 	'overage',
 	'Reference',
 	'note',
@@ -35,7 +36,7 @@ row = []
 for group in grouped:#
     del row[:]
     refs = ""
-
+    quantity = 0
     # Add the reference of every component in the group and keep a reference
     # to the component so that the other data can be filled in once per group
     for component in group:
@@ -43,12 +44,14 @@ for group in grouped:#
             refs += ", "
         refs += component.getRef()
         c = component
+        quantity+=1
         
     row.append(c.getField("part_id"))
     row.append(c.getField("part_ipn"))
     row.append(c.getField("MFG ID"))
-    row.append(c.getField("quantity"))
-    row.append(c.getField("optional"))
+    row.append(quantity)
+    row.append(c.getField("Optional"))
+    row.append(c.getField("DNP"))
     row.append(c.getField("overage"))
     row.append(refs)
     row.append(c.getField("note"))
