@@ -18,22 +18,21 @@ out.writerow([
 	'part_ipn',
 	'part_name',
 	'quantity',
-	'optional',
-	'dnp',
 	'overage',
 	'Reference',
 	'note',
 	'inherited',
-	'allow_varients',
-	'Value',
-	'ref',
+	'allow_variants',
+	'Value'
 	])
-	
-grouped = net.groupComponents()
+
+components = net.getInterestingComponents()
+
+grouped = net.groupComponents(components)
 
 # Output all of the component information
 row = []
-for group in grouped:#
+for group in grouped:
     del row[:]
     refs = ""
     quantity = 0
@@ -50,18 +49,13 @@ for group in grouped:#
     row.append(c.getField("part_ipn"))
     row.append(c.getField("MFG ID"))
     row.append(quantity)
-    row.append(c.getField("Optional"))
-    row.append(c.getField("DNP"))
     row.append(c.getField("overage"))
     row.append(refs)
     row.append(c.getField("note"))
     row.append(c.getField("inherited"))
-    row.append(c.getField("allow_varients"))
+    row.append(c.getField("allow_variants"))
     row.append(c.getField("Value"))
     
     out.writerow(row)
 
 f.close()
-		
-
-
