@@ -32,8 +32,8 @@
   (pad 6 thru_hole circle (at 6.350 -2.54) (size 1.303 1.303) (drill 0.76) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 7.620 -0) (size 1.303 1.303) (drill 0.76) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.890 -2.54) (size 1.303 1.303) (drill 0.76) (layers *.Cu *.Mask))
-  (pad MH1 np_thru_hole circle (at -1.271 6.35) (size 3.35 0) (drill 3.35) (layers *.Cu *.Mask))
-  (pad MH2 np_thru_hole circle (at 10.161 6.35) (size 3.35 0) (drill 3.35) (layers *.Cu *.Mask))
+  (pad MH1 np_thru_hole circle (at -1.271 6.35) (size 3.35 1.0) (drill 3.35) (layers *.Cu *.Mask))
+  (pad MH2 np_thru_hole circle (at 10.161 6.35) (size 3.35 1.0) (drill 3.35) (layers *.Cu *.Mask))
   (model 54601-908WPLF.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

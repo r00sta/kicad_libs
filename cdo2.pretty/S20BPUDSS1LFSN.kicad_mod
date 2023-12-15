@@ -50,8 +50,8 @@
   (pad 18 thru_hole circle (at -16 -2) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask))
   (pad 19 thru_hole circle (at -18 0) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at -18 -2) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask))
-  (pad MH1 np_thru_hole circle (at 0.9 -9.7) (size 1.7 0) (drill 1.7) (layers *.Cu *.Mask))
-  (pad MH2 np_thru_hole circle (at -18.9 -9.7) (size 1.7 0) (drill 1.7) (layers *.Cu *.Mask))
+  (pad MH1 np_thru_hole circle (at 0.9 -9.7) (size 1.7 1.0) (drill 1.7) (layers *.Cu *.Mask))
+  (pad MH2 np_thru_hole circle (at -18.9 -9.7) (size 1.7 1.0) (drill 1.7) (layers *.Cu *.Mask))
   (model :kicad_libs:S20B-PUDSS-1.STEP
     (offset (xyz -9 5.7 0))
     (scale (xyz 1 1 1))

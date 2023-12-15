@@ -64,8 +64,8 @@
   (pad L4 thru_hole circle (at 2.355 13.47) (size 1.530 1.530) (drill 1.02) (layers *.Cu *.Mask))
   (pad MH1 thru_hole circle (at 3.430 5.84) (size 2.355 2.355) (drill 1.57) (layers *.Cu *.Mask))
   (pad MH2 thru_hole circle (at -12.320 5.84) (size 2.355 2.355) (drill 1.57) (layers *.Cu *.Mask))
-  (pad MH3 np_thru_hole circle (at 1.270 8.89) (size 3.25 0) (drill 3.25) (layers *.Cu *.Mask))
-  (pad MH4 np_thru_hole circle (at -10.160 8.89) (size 3.25 0) (drill 3.25) (layers *.Cu *.Mask))
+  (pad MH3 np_thru_hole circle (at 1.270 8.89) (size 3.25 1.0) (drill 3.25) (layers *.Cu *.Mask))
+  (pad MH4 np_thru_hole circle (at -10.160 8.89) (size 3.25 1.0) (drill 3.25) (layers *.Cu *.Mask))
   (model ARJM11C7-009-AB-EW2.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

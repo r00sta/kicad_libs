@@ -29,7 +29,7 @@
   (fp_text user . (at -1.73 -5.32) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad MH3 np_thru_hole circle (at 3.075 2.1) (size 1.2 0) (drill 1.2) (layers *.Cu *.Mask))
+  (pad MH3 np_thru_hole circle (at 3.075 2.1) (size 1.2 1.0) (drill 1.2) (layers *.Cu *.Mask))
   (pad MH2 thru_hole circle (at 4.5 0) (size 3.092 3.092) (drill 2.0616) (layers *.Cu *.Mask))
   (pad MH1 thru_hole circle (at -4.5 0) (size 3.092 3.092) (drill 2.0616) (layers *.Cu *.Mask))
   (pad 10 smd rect (at -2.25 3.425) (size 0.6 1.95) (layers F.Cu F.Paste F.Mask))
