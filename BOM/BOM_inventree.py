@@ -14,15 +14,10 @@ except IOError:
 out = csv.writer(f, lineterminator='\n', delimiter=',', quotechar='\"', quoting=csv.QUOTE_ALL)
 
 out.writerow([
-	'part_id',
-	'part_ipn',
+	'part_num',
 	'part_name',
 	'quantity',
-	'overage',
 	'Reference',
-	'note',
-	'inherited',
-	'allow_variants',
 	'Value'
 	])
 
@@ -44,16 +39,11 @@ for group in grouped:
         refs += component.getRef()
         c = component
         quantity+=1
-        
-    row.append(c.getField("part_id"))
-    row.append(c.getField("part_ipn"))
+
+    row.append(c.getField("Part Num"))
     row.append(c.getField("MFG ID"))
     row.append(quantity)
-    row.append(c.getField("overage"))
     row.append(refs)
-    row.append(c.getField("note"))
-    row.append(c.getField("inherited"))
-    row.append(c.getField("allow_variants"))
     row.append(c.getField("Value"))
     
     out.writerow(row)
