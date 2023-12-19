@@ -3,7 +3,7 @@
   (descr "85543-7001-1")
   (tags "Connector")
   (attr through_hole)
-  (fp_text reference "J**" (at 0 -3.04) (layer "F.SilkS")
+  (fp_text reference "J**" (at -7.2 10.4) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 666ad978-88f0-44a8-b4cf-622f1899cdeb)
   )
