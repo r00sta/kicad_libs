@@ -61,8 +61,10 @@
   (pad "6" smd rect (at 1.905 -10.225) (size 0.76 6.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e58fdf0-22d7-44bc-a096-f28976ea2586))
   (pad "7" smd rect (at 3.175 -10.225) (size 0.76 6.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2a3e6a82-df16-40cb-92d8-4cb59694461c))
   (pad "8" smd rect (at 4.445 -10.225) (size 0.76 6.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a564e033-7c33-4fdf-97c3-b5a8dbbf1559))
-  (pad "MP1" smd rect (at -9.21 3.06 90) (size 3.6 4.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c6dede8d-2926-4d73-a87c-86a7931e85db))
-  (pad "MP2" smd rect (at 9.21 3.06 90) (size 3.6 4.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 69efcf54-6cb7-4687-bfbf-dff48a79fe8c))
+  (pad "MP1" smd roundrect (at -9.21 3.06 90) (size 3.6 4.79) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0)
+    (chamfer_ratio 0.3) (chamfer bottom_right) (tstamp c6dede8d-2926-4d73-a87c-86a7931e85db))
+  (pad "MP2" smd roundrect (at 9.21 3.06 90) (size 3.6 4.79) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0)
+    (chamfer_ratio 0.3) (chamfer top_right) (tstamp 69efcf54-6cb7-4687-bfbf-dff48a79fe8c))
   (model ":CDO2_3D:85543-7001.stp"
     (offset (xyz 0 -7.7 0))
     (scale (xyz 1 1 1))
