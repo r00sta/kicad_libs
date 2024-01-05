@@ -1,6 +1,6 @@
 (footprint "QFN50P550X350X100-25N410X210" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "U**" (at -0.72826 -4.317814) (layer "F.SilkS")
       (effects (font (size 0.481487 0.481487) (thickness 0.015)))
     (tstamp a3106a61-365f-41e6-b9a5-91eedd375128)

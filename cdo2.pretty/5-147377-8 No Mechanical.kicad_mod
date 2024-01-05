@@ -1,13 +1,13 @@
-(footprint "6-104549-0" (version 20221018) (generator pcbnew)
+(footprint "5-147377-8 No Mechanical" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "6-104549-0")
+  (descr "5-147377-8 No Mechanical THT")
   (tags "Connector")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "J**" (at -0.47661 -0.082) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp f056c808-9bb8-4643-8d85-ee04e88e7410)
   )
-  (fp_text value "6-104549-0" (at -0.47661 -0.082) (layer "F.SilkS") hide
+  (fp_text value "5-147377-8" (at -0.47661 -0.082) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 2be9ea31-fe6d-40fb-ae64-e1781e7711ae)
   )
@@ -133,11 +133,8 @@
   (pad "98" smd rect (at 28.575 2.8448) (size 0.7366 3.5052) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7eec4a3b-255c-42f0-9d6c-5f594219af9a))
   (pad "99" smd rect (at 29.845 2.8448) (size 0.7366 3.5052) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9c1e2551-2c0e-426e-8d67-ea2e3d19aef1))
   (pad "100" smd rect (at 31.115 2.8448) (size 0.7366 3.5052) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a1efbc3b-edd4-45d8-9b05-688406ed61a9))
-  (pad "101" thru_hole circle (at -29.2 0) (size 1.65 1.65) (drill 1.07) (layers "*.Cu" "*.Mask") (tstamp 6a205db4-d92e-4220-b7c9-adbd48efb84f))
-  (pad "102" thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.07) (layers "*.Cu" "*.Mask") (tstamp 84b9b006-d856-4a7f-bb26-5f3dd961712a))
-  (pad "103" thru_hole circle (at 29.2 0) (size 1.65 1.65) (drill 1.07) (layers "*.Cu" "*.Mask") (tstamp 59021e02-eed5-4ed5-87ea-68670b124a97))
-  (model "6-104549-0.stp"
-    (offset (xyz 0 0 10.95999987))
+  (model ":CDO2_3D:5-147377-8.stp"
+    (offset (xyz 0 0 11))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

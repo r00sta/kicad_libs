@@ -1,13 +1,13 @@
-(footprint "09734646804" (version 20221018) (generator pcbnew)
+(footprint "09031647921" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "09734646804")
+  (descr "09031647921")
   (tags "Connector")
   (attr through_hole)
   (fp_text reference "J**" (at 46.3 5 90) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 9a10e40a-18f9-4547-a0f0-73307e5a388e)
   )
-  (fp_text value "09734646804" (at 0 0) (layer "F.SilkS") hide
+  (fp_text value "09031647921" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 84476fcd-3011-4ec4-802a-7f66c124fdf3)
   )
